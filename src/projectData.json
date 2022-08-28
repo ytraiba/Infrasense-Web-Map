@@ -1,0 +1,5411 @@
+{
+   "1": {
+      "Project Name": "Cranston and Warwick RI",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "RI",
+      "# of decks": 13,
+      "deck area": "131,063",
+      "pavement miles": null
+   },
+   "2": {
+      "Project Name": "Tenn DOT",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "TN",
+      "# of decks": 5,
+      "deck area": "67,172",
+      "pavement miles": null
+   },
+   "3": {
+      "Project Name": "Wyoming DOT",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "WY",
+      "# of decks": 6,
+      "deck area": "28,486",
+      "pavement miles": null
+   },
+   "4": {
+      "Project Name": "NY State Thruway",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 3,
+      "deck area": "23,364",
+      "pavement miles": null
+   },
+   "5": {
+      "Project Name": "Eddy Street Bridge Decks  RI",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "RI",
+      "# of decks": 2,
+      "deck area": "13,649",
+      "pavement miles": null
+   },
+   "6": {
+      "Project Name": "Lichtenstein and Assoc Route 10",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 5,
+      "deck area": "55,165",
+      "pavement miles": null
+   },
+   "7": {
+      "Project Name": "Washington Bridges Route 195",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "RI",
+      "# of decks": 2,
+      "deck area": "261,384",
+      "pavement miles": null
+   },
+   "8": {
+      "Project Name": "Lichtenstein Tacony Palmyra Br",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": 1,
+      "deck area": "152,000",
+      "pavement miles": null
+   },
+   "9": {
+      "Project Name": "Lichtenstein Stone Arch Bridge",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "MN",
+      "# of decks": 1,
+      "deck area": "80,000",
+      "pavement miles": null
+   },
+   "10": {
+      "Project Name": "Washington State DOT",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "WA",
+      "# of decks": 4,
+      "deck area": "22,080",
+      "pavement miles": null
+   },
+   "11": {
+      "Project Name": "Delaware DOT",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "DE",
+      "# of decks": 16,
+      "deck area": "145,580",
+      "pavement miles": null
+   },
+   "12": {
+      "Project Name": "NY State Thruway- Muitzes Kill",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 2,
+      "deck area": "14,911",
+      "pavement miles": null
+   },
+   "13": {
+      "Project Name": "NHDOT '91",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "NH",
+      "# of decks": 44,
+      "deck area": "257,154",
+      "pavement miles": null
+   },
+   "14": {
+      "Project Name": "Alberta Canada",
+      "Year": "pre-1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "Abroad",
+      "# of decks": 24,
+      "deck area": "31,835",
+      "pavement miles": null
+   },
+   "15": {
+      "Project Name": "Florida TTI ",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "FL",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 130
+   },
+   "16": {
+      "Project Name": "Kent County United Kingdom",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "UK",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 149
+   },
+   "17": {
+      "Project Name": "Michigan DOT - Cadillac",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 70
+   },
+   "18": {
+      "Project Name": "Michigan DOT I-75",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 52
+   },
+   "19": {
+      "Project Name": "Nassau County New York",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 7
+   },
+   "20": {
+      "Project Name": "Kent County UK 95",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "Abroad",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 149
+   },
+   "21": {
+      "Project Name": "Wyoming DOT",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "WY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 35
+   },
+   "22": {
+      "Project Name": "Kent County UK 94",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "Abroad",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 330
+   },
+   "23": {
+      "Project Name": "TRL Kent County",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "Abroad",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 19
+   },
+   "24": {
+      "Project Name": "MNDOT ",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 19
+   },
+   "25": {
+      "Project Name": "Penn DOT I 95",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "PA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 73
+   },
+   "26": {
+      "Project Name": "University of Kansas ",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "KS",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 3
+   },
+   "27": {
+      "Project Name": "SHRP LTPP 92",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 2
+   },
+   "28": {
+      "Project Name": "Phoenix Pavement Consults 92-96",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "Abroad",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 500
+   },
+   "29": {
+      "Project Name": "Florida DOT '91",
+      "Year": "pre-1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "FL",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 2
+   },
+   "30": {
+      "Project Name": "I 44 Westbound- Terracon",
+      "Year": "1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "",
+      "# of decks": 11,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "31": {
+      "Project Name": "Arizona",
+      "Year": "1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "AZ",
+      "# of decks": 134,
+      "deck area": "1,074,540",
+      "pavement miles": null
+   },
+   "32": {
+      "Project Name": "Alaska Viaducts",
+      "Year": "1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "AK",
+      "# of decks": 2,
+      "deck area": "167,500",
+      "pavement miles": null
+   },
+   "33": {
+      "Project Name": "Idaho DOT ",
+      "Year": "1998",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 3,
+      "deck area": "15,882",
+      "pavement miles": null
+   },
+   "34": {
+      "Project Name": "Newton County, MO Route 71",
+      "Year": "1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MO",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "35": {
+      "Project Name": "Berlin St. Highway ",
+      "Year": "1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 2
+   },
+   "36": {
+      "Project Name": "Long Island Expressway",
+      "Year": "1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 59
+   },
+   "37": {
+      "Project Name": "Idaho DOT",
+      "Year": "1998",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 30
+   },
+   "38": {
+      "Project Name": "GA DOT- Terracon",
+      "Year": "1999",
+      "Application": "Bridge Deck Scanning",
+      "State": "GA",
+      "# of decks": 5,
+      "deck area": "25,320",
+      "pavement miles": null
+   },
+   "39": {
+      "Project Name": "NH DOT demo",
+      "Year": "1999",
+      "Application": "Bridge Deck Scanning",
+      "State": "NH",
+      "# of decks": 4,
+      "deck area": "10,746",
+      "pavement miles": null
+   },
+   "40": {
+      "Project Name": "Nebraska",
+      "Year": "1999",
+      "Application": "Bridge Deck Scanning",
+      "State": "NE",
+      "# of decks": 4,
+      "deck area": "59,486",
+      "pavement miles": null
+   },
+   "41": {
+      "Project Name": "Idaho- Terracon",
+      "Year": "1999",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 8,
+      "deck area": "38,076",
+      "pavement miles": null
+   },
+   "42": {
+      "Project Name": "Poca",
+      "Year": "1999",
+      "Application": "Bridge Deck Scanning",
+      "State": "",
+      "# of decks": 1,
+      "deck area": "3,873",
+      "pavement miles": null
+   },
+   "43": {
+      "Project Name": "ETC Virginia",
+      "Year": "1999",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 16,
+      "deck area": "92,776",
+      "pavement miles": null
+   },
+   "44": {
+      "Project Name": "GA DOT- Terracon Demo",
+      "Year": "1999",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 9
+   },
+   "45": {
+      "Project Name": "Alabama Demo",
+      "Year": "1999",
+      "Application": "Pavement Structure Evaluation",
+      "State": "AL",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 2
+   },
+   "46": {
+      "Project Name": "NCHRP ARA ",
+      "Year": "1999",
+      "Application": "Pavement Structure Evaluation",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 1
+   },
+   "47": {
+      "Project Name": "PB New Haven",
+      "Year": "1999",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 51
+   },
+   "48": {
+      "Project Name": "I-95 New Haven Conn",
+      "Year": "1999",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 9
+   },
+   "49": {
+      "Project Name": "I 95 SB Richmond VA",
+      "Year": "1999",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 2
+   },
+   "50": {
+      "Project Name": "Maine DOT",
+      "Year": "2000",
+      "Application": "Bridge Deck Scanning",
+      "State": "ME",
+      "# of decks": 1,
+      "deck area": "180,000",
+      "pavement miles": null
+   },
+   "51": {
+      "Project Name": "WISDOT",
+      "Year": "2000",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 44,
+      "deck area": "750,000",
+      "pavement miles": null
+   },
+   "52": {
+      "Project Name": "Baker Delaware River Port Auth.",
+      "Year": "2000",
+      "Application": "Bridge Deck Scanning",
+      "State": "DE",
+      "# of decks": 2,
+      "deck area": "851,510",
+      "pavement miles": null
+   },
+   "53": {
+      "Project Name": "Kansas DOT Stripping I 35",
+      "Year": "2000",
+      "Application": "Pavement Structure Evaluation",
+      "State": "KS",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 48
+   },
+   "54": {
+      "Project Name": "ERES ISTHA I 90 Chicago",
+      "Year": "2000",
+      "Application": "Pavement Structure Evaluation",
+      "State": "IL",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 270
+   },
+   "55": {
+      "Project Name": "Arkansas Pilot Study",
+      "Year": "2001",
+      "Application": "Bridge Deck Scanning",
+      "State": "AR",
+      "# of decks": 4,
+      "deck area": "37,350",
+      "pavement miles": null
+   },
+   "56": {
+      "Project Name": "NYS Thruway- N Grand Island Br",
+      "Year": "2001",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 2,
+      "deck area": "182,592",
+      "pavement miles": null
+   },
+   "57": {
+      "Project Name": "Wade Trim- Rouge River Br. I-75",
+      "Year": "2001",
+      "Application": "Bridge Deck Scanning",
+      "State": "MI",
+      "# of decks": 1,
+      "deck area": "1,078,409",
+      "pavement miles": null
+   },
+   "58": {
+      "Project Name": "URS- ISTHA TriState Toll I 294",
+      "Year": "2001",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 4,
+      "deck area": "7,983",
+      "pavement miles": null
+   },
+   "59": {
+      "Project Name": "Boulder Creek ID",
+      "Year": "2001",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 1,
+      "deck area": "4,710",
+      "pavement miles": null
+   },
+   "60": {
+      "Project Name": "Arkansas Pilot Study",
+      "Year": "2001",
+      "Application": "Pavement Structure Evaluation",
+      "State": "AR",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 25
+   },
+   "61": {
+      "Project Name": "Grand Central Pkway",
+      "Year": "2001",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 65
+   },
+   "62": {
+      "Project Name": "ERES I-294 ISTHA TriState",
+      "Year": "2001",
+      "Application": "Pavement Structure Evaluation",
+      "State": "IL",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 108
+   },
+   "63": {
+      "Project Name": "Dubuque Iowa Approach Slabs",
+      "Year": "2002",
+      "Application": "Bridge Deck Scanning",
+      "State": "IA",
+      "# of decks": 14,
+      "deck area": "21,440",
+      "pavement miles": null
+   },
+   "64": {
+      "Project Name": "NY State DOT Region 6",
+      "Year": "2002",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 10,
+      "deck area": "38,622",
+      "pavement miles": null
+   },
+   "65": {
+      "Project Name": "Stantec NJ Pilot Study",
+      "Year": "2002",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NJ",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 603
+   },
+   "66": {
+      "Project Name": "Terracon I 84 Caldwell blvd",
+      "Year": "2002",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 10
+   },
+   "67": {
+      "Project Name": "Tappan Zee Bridge",
+      "Year": "2003",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 1,
+      "deck area": "1,345,092",
+      "pavement miles": null
+   },
+   "68": {
+      "Project Name": "ND I-94 ",
+      "Year": "2003",
+      "Application": "Bridge Deck Scanning",
+      "State": "ND",
+      "# of decks": 2,
+      "deck area": "8,510",
+      "pavement miles": null
+   },
+   "69": {
+      "Project Name": "NY State Demo",
+      "Year": "2003",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 2,
+      "deck area": "13,154",
+      "pavement miles": null
+   },
+   "70": {
+      "Project Name": "LCA NJ Arch Bridge",
+      "Year": "2003",
+      "Application": "Bridge Deck Scanning",
+      "State": "NJ",
+      "# of decks": 1,
+      "deck area": "660",
+      "pavement miles": null
+   },
+   "71": {
+      "Project Name": "Baker-Conn Route 40 and I-84",
+      "Year": "2003",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 5,
+      "deck area": "99,723",
+      "pavement miles": null
+   },
+   "72": {
+      "Project Name": "LTPP",
+      "Year": "2003",
+      "Application": "Pavement Structure Evaluation",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 38
+   },
+   "73": {
+      "Project Name": "ND US 83 and US 2",
+      "Year": "2003",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ND",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 25
+   },
+   "74": {
+      "Project Name": "MLK- Owens Las Vegas",
+      "Year": "2003",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NV",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 11
+   },
+   "75": {
+      "Project Name": "Koch Ogden Utah 24th Street",
+      "Year": "2003",
+      "Application": "Pavement Structure Evaluation",
+      "State": "UT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 2
+   },
+   "76": {
+      "Project Name": "ARA-4 NCHRP",
+      "Year": "2003",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "77": {
+      "Project Name": "ATT Lighthouse North FOC",
+      "Year": "2003",
+      "Application": "Pavement Structure Evaluation",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 76
+   },
+   "78": {
+      "Project Name": "ERES GDOT pilot study",
+      "Year": "2003",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 24
+   },
+   "79": {
+      "Project Name": "Beacon-Newburgh Bridge",
+      "Year": "2004",
+      "Application": "Bridge Deck Scanning",
+      "State": "",
+      "# of decks": 1,
+      "deck area": "310,273",
+      "pavement miles": null
+   },
+   "80": {
+      "Project Name": "ND DOT Research",
+      "Year": "2004",
+      "Application": "Bridge Deck Scanning",
+      "State": "ND",
+      "# of decks": 4,
+      "deck area": "212,670",
+      "pavement miles": null
+   },
+   "81": {
+      "Project Name": "FRU OK DOT",
+      "Year": "2004",
+      "Application": "Pavement Structure Evaluation",
+      "State": "OK",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 3506
+   },
+   "82": {
+      "Project Name": "ATT Lighthouse North FOC",
+      "Year": "2004",
+      "Application": "Pavement Structure Evaluation",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 47
+   },
+   "83": {
+      "Project Name": "Utah DOT",
+      "Year": "2004",
+      "Application": "Pavement Structure Evaluation",
+      "State": "UT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 1186
+   },
+   "84": {
+      "Project Name": "BBC&M ODOTdrain study",
+      "Year": "2004",
+      "Application": "Pavement Structure Evaluation",
+      "State": "OH",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 63
+   },
+   "85": {
+      "Project Name": "ND DOT Research",
+      "Year": "2004",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ND",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 50
+   },
+   "86": {
+      "Project Name": "ND DOT",
+      "Year": "2005",
+      "Application": "Bridge Deck Scanning",
+      "State": "ND",
+      "# of decks": 12,
+      "deck area": "118,336",
+      "pavement miles": null
+   },
+   "87": {
+      "Project Name": "Lancaster PA US 222",
+      "Year": "2005",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": 8,
+      "deck area": "74,683",
+      "pavement miles": null
+   },
+   "88": {
+      "Project Name": "Caltrans-Dynatest",
+      "Year": "2005",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 305
+   },
+   "89": {
+      "Project Name": "VA tech",
+      "Year": "2005",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 100
+   },
+   "90": {
+      "Project Name": "UTAH",
+      "Year": "2005",
+      "Application": "Pavement Structure Evaluation",
+      "State": "UT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 788
+   },
+   "91": {
+      "Project Name": "Koch rt 288 ",
+      "Year": "2005",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 20
+   },
+   "92": {
+      "Project Name": "KDOT Topeka I-70",
+      "Year": "2005",
+      "Application": "Pavement Structure Evaluation",
+      "State": "KS",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 3
+   },
+   "93": {
+      "Project Name": "ME-WPI ",
+      "Year": "2005",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ME",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 14
+   },
+   "94": {
+      "Project Name": "ND DOT",
+      "Year": "2005",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ND",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 31
+   },
+   "95": {
+      "Project Name": "MLPE- SGH",
+      "Year": "2005",
+      "Application": "Pavement Structure Evaluation",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 45
+   },
+   "96": {
+      "Project Name": "LDPS GA Legal",
+      "Year": "2005",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 60
+   },
+   "97": {
+      "Project Name": "ODOT1",
+      "Year": "2006",
+      "Application": "Bridge Deck Scanning",
+      "State": "OH",
+      "# of decks": 18,
+      "deck area": "107,974",
+      "pavement miles": null
+   },
+   "98": {
+      "Project Name": "ODOT2",
+      "Year": "2006",
+      "Application": "Bridge Deck Scanning",
+      "State": "OH",
+      "# of decks": 1,
+      "deck area": "29,120",
+      "pavement miles": null
+   },
+   "99": {
+      "Project Name": "Plymouth PA- I-476 ",
+      "Year": "2006",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": 12,
+      "deck area": "230,039",
+      "pavement miles": null
+   },
+   "100": {
+      "Project Name": "CJM Wethersfield CT",
+      "Year": "2006",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 1,
+      "deck area": "155,944",
+      "pavement miles": null
+   },
+   "101": {
+      "Project Name": "ETC-Duke St Bridge",
+      "Year": "2006",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 1,
+      "deck area": "23,509",
+      "pavement miles": null
+   },
+   "102": {
+      "Project Name": "Lackawanna Co. PA",
+      "Year": "2006",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": 2,
+      "deck area": "19,184",
+      "pavement miles": null
+   },
+   "103": {
+      "Project Name": "Ant Valley Freeway CA- Rt 14",
+      "Year": "2006",
+      "Application": "Bridge Deck Scanning",
+      "State": "CA",
+      "# of decks": 37,
+      "deck area": "514,188",
+      "pavement miles": null
+   },
+   "104": {
+      "Project Name": "NY- I-86",
+      "Year": "2006",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 14,
+      "deck area": "44,027",
+      "pavement miles": null
+   },
+   "105": {
+      "Project Name": "Ramps near Logan",
+      "Year": "2006",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 20,
+      "deck area": "293,383",
+      "pavement miles": null
+   },
+   "106": {
+      "Project Name": "NH- I-93 Merrimack River",
+      "Year": "2006",
+      "Application": "Bridge Deck Scanning",
+      "State": "NH",
+      "# of decks": 2,
+      "deck area": "105,908",
+      "pavement miles": null
+   },
+   "107": {
+      "Project Name": "Fugro New Orleans",
+      "Year": "2006",
+      "Application": "Pavement Structure Evaluation",
+      "State": "LA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 242
+   },
+   "108": {
+      "Project Name": "DF Flatbush Ave ",
+      "Year": "2006",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 3
+   },
+   "109": {
+      "Project Name": "ARA GA I-75",
+      "Year": "2006",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 130
+   },
+   "110": {
+      "Project Name": "NH- I-93",
+      "Year": "2006",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NH",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 114
+   },
+   "111": {
+      "Project Name": "HAKS-Waterbury CT",
+      "Year": "2007",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 16,
+      "deck area": "766,568",
+      "pavement miles": null
+   },
+   "112": {
+      "Project Name": "Penn DOT I-81",
+      "Year": "2007",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": 5,
+      "deck area": "38,839",
+      "pavement miles": null
+   },
+   "113": {
+      "Project Name": "PennDOT Lackawanna",
+      "Year": "2007",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": 11,
+      "deck area": "62,522",
+      "pavement miles": null
+   },
+   "114": {
+      "Project Name": "NOVA- ETC",
+      "Year": "2007",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 10,
+      "deck area": "106,718",
+      "pavement miles": null
+   },
+   "115": {
+      "Project Name": "NY- I-787",
+      "Year": "2007",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 6,
+      "deck area": "643,333",
+      "pavement miles": null
+   },
+   "116": {
+      "Project Name": "West Roxbury",
+      "Year": "2007",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 1,
+      "deck area": "1,480",
+      "pavement miles": null
+   },
+   "117": {
+      "Project Name": "NY-Syracuse-I-81/I-690",
+      "Year": "2007",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 40,
+      "deck area": "918,547",
+      "pavement miles": null
+   },
+   "118": {
+      "Project Name": "Hawaii",
+      "Year": "2007",
+      "Application": "Bridge Deck Scanning",
+      "State": "HI",
+      "# of decks": 2,
+      "deck area": "1,389,888",
+      "pavement miles": null
+   },
+   "119": {
+      "Project Name": "CTL- I-90/I-294",
+      "Year": "2007",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 2,
+      "deck area": "104,400",
+      "pavement miles": null
+   },
+   "120": {
+      "Project Name": "ODOT3",
+      "Year": "2007",
+      "Application": "Bridge Deck Scanning",
+      "State": "OH",
+      "# of decks": 20,
+      "deck area": "117,796",
+      "pavement miles": null
+   },
+   "121": {
+      "Project Name": "WISDOT SW ",
+      "Year": "2007",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 45,
+      "deck area": "404,434",
+      "pavement miles": null
+   },
+   "122": {
+      "Project Name": "OR Univ.",
+      "Year": "2007",
+      "Application": "Pavement Structure Evaluation",
+      "State": "OR",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 114
+   },
+   "123": {
+      "Project Name": "Oregon DOT- Grants+Tangent",
+      "Year": "2007",
+      "Application": "Pavement Structure Evaluation",
+      "State": "OR",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 2
+   },
+   "124": {
+      "Project Name": "SD-Mines",
+      "Year": "2007",
+      "Application": "Pavement Structure Evaluation",
+      "State": "SD",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 16
+   },
+   "125": {
+      "Project Name": "Hawaii",
+      "Year": "2007",
+      "Application": "Pavement Structure Evaluation",
+      "State": "HI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 11
+   },
+   "126": {
+      "Project Name": "WISDOT",
+      "Year": "2008",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "127": {
+      "Project Name": "NC",
+      "Year": "2008",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 41,
+      "deck area": "583,381",
+      "pavement miles": null
+   },
+   "128": {
+      "Project Name": "NW",
+      "Year": "2008",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 57,
+      "deck area": "605,384",
+      "pavement miles": null
+   },
+   "129": {
+      "Project Name": "SW ",
+      "Year": "2008",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 34,
+      "deck area": "453,003",
+      "pavement miles": null
+   },
+   "130": {
+      "Project Name": "SW2 ",
+      "Year": "2008",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 9,
+      "deck area": "119,309",
+      "pavement miles": null
+   },
+   "131": {
+      "Project Name": "ODOT4",
+      "Year": "2008",
+      "Application": "Bridge Deck Scanning",
+      "State": "OH",
+      "# of decks": 26,
+      "deck area": "164,046",
+      "pavement miles": null
+   },
+   "132": {
+      "Project Name": "Castleton",
+      "Year": "2008",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 1,
+      "deck area": "325,130",
+      "pavement miles": null
+   },
+   "133": {
+      "Project Name": "Suffolk",
+      "Year": "2008",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 1,
+      "deck area": "11,088",
+      "pavement miles": null
+   },
+   "134": {
+      "Project Name": "PA-SR30",
+      "Year": "2008",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": 1,
+      "deck area": "505,741",
+      "pavement miles": null
+   },
+   "135": {
+      "Project Name": "WEI-NC",
+      "Year": "2008",
+      "Application": "Bridge Deck Scanning",
+      "State": "NC",
+      "# of decks": 3,
+      "deck area": "61,870",
+      "pavement miles": null
+   },
+   "136": {
+      "Project Name": "MKA-Rt 222",
+      "Year": "2008",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": 14,
+      "deck area": "114,570",
+      "pavement miles": null
+   },
+   "137": {
+      "Project Name": "MTPK",
+      "Year": "2008",
+      "Application": "Bridge Deck Scanning",
+      "State": "ME",
+      "# of decks": 2,
+      "deck area": "26,370",
+      "pavement miles": null
+   },
+   "138": {
+      "Project Name": "NW-10",
+      "Year": "2009",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 45,
+      "deck area": "442,420",
+      "pavement miles": null
+   },
+   "139": {
+      "Project Name": "SW-9",
+      "Year": "2009",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 22,
+      "deck area": "275,362",
+      "pavement miles": null
+   },
+   "140": {
+      "Project Name": "HNTB MTPK",
+      "Year": "2009",
+      "Application": "Bridge Deck Scanning",
+      "State": "ME",
+      "# of decks": 7,
+      "deck area": "59,730",
+      "pavement miles": null
+   },
+   "141": {
+      "Project Name": "MEDOT",
+      "Year": "2009",
+      "Application": "Bridge Deck Scanning",
+      "State": "ME",
+      "# of decks": 7,
+      "deck area": "151,324",
+      "pavement miles": null
+   },
+   "142": {
+      "Project Name": "KEG IL",
+      "Year": "2009",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 5,
+      "deck area": "60,969",
+      "pavement miles": null
+   },
+   "143": {
+      "Project Name": "CECO PA long pond rd",
+      "Year": "2009",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": 1,
+      "deck area": "7,416",
+      "pavement miles": null
+   },
+   "144": {
+      "Project Name": "CJM CT",
+      "Year": "2009",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 2,
+      "deck area": "13,600",
+      "pavement miles": null
+   },
+   "145": {
+      "Project Name": "MADOT",
+      "Year": "2009",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 7,
+      "deck area": "79,000",
+      "pavement miles": null
+   },
+   "146": {
+      "Project Name": "MNDOT",
+      "Year": "2009",
+      "Application": "Bridge Deck Scanning",
+      "State": "MN",
+      "# of decks": 23,
+      "deck area": "424,981",
+      "pavement miles": null
+   },
+   "147": {
+      "Project Name": "MN2",
+      "Year": "2009",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 11,
+      "deck area": "28,655",
+      "pavement miles": null
+   },
+   "148": {
+      "Project Name": "ARA PA",
+      "Year": "2009",
+      "Application": "Pavement Structure Evaluation",
+      "State": "PA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 70
+   },
+   "149": {
+      "Project Name": "SD-Mines",
+      "Year": "2009",
+      "Application": "Pavement Structure Evaluation",
+      "State": "SD",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 8
+   },
+   "150": {
+      "Project Name": "J & S Indiana",
+      "Year": "2010",
+      "Application": "Bridge Deck Scanning",
+      "State": "IN",
+      "# of decks": 1,
+      "deck area": "173,460",
+      "pavement miles": null
+   },
+   "151": {
+      "Project Name": "MEDOT Woolwich",
+      "Year": "2010",
+      "Application": "Bridge Deck Scanning",
+      "State": "ME",
+      "# of decks": 1,
+      "deck area": "5,336",
+      "pavement miles": null
+   },
+   "152": {
+      "Project Name": "MN4",
+      "Year": "2010",
+      "Application": "Bridge Deck Scanning",
+      "State": "MN",
+      "# of decks": 24,
+      "deck area": "588,843",
+      "pavement miles": null
+   },
+   "153": {
+      "Project Name": "MADOT Waltham",
+      "Year": "2010",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 1,
+      "deck area": "13,150",
+      "pavement miles": null
+   },
+   "154": {
+      "Project Name": "FHWA- GW Parkway",
+      "Year": "2010",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 1,
+      "deck area": "3,916",
+      "pavement miles": null
+   },
+   "155": {
+      "Project Name": "IDOT",
+      "Year": "2010",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 1,
+      "deck area": "339,633",
+      "pavement miles": null
+   },
+   "156": {
+      "Project Name": "MN3",
+      "Year": "2010",
+      "Application": "Bridge Deck Scanning",
+      "State": "MN",
+      "# of decks": 42,
+      "deck area": "424,114",
+      "pavement miles": null
+   },
+   "157": {
+      "Project Name": "MTPK3",
+      "Year": "2010",
+      "Application": "Bridge Deck Scanning",
+      "State": "ME",
+      "# of decks": 9,
+      "deck area": "75,740",
+      "pavement miles": null
+   },
+   "158": {
+      "Project Name": "MADOT D&R I93",
+      "Year": "2010",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 8,
+      "deck area": "115,070",
+      "pavement miles": null
+   },
+   "159": {
+      "Project Name": "SW 2010",
+      "Year": "2010",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 18,
+      "deck area": "363,500",
+      "pavement miles": null
+   },
+   "160": {
+      "Project Name": "SPS",
+      "Year": "2010",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 1,
+      "deck area": "3,120",
+      "pavement miles": null
+   },
+   "161": {
+      "Project Name": "WJE",
+      "Year": "2011",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 12,
+      "deck area": "174,000",
+      "pavement miles": null
+   },
+   "162": {
+      "Project Name": "Juneau",
+      "Year": "2011",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 4,
+      "deck area": "14,216",
+      "pavement miles": null
+   },
+   "163": {
+      "Project Name": "G&F Newport DE",
+      "Year": "2011",
+      "Application": "Bridge Deck Scanning",
+      "State": "DE",
+      "# of decks": 1,
+      "deck area": "140,000",
+      "pavement miles": null
+   },
+   "164": {
+      "Project Name": "WisDOT SW1",
+      "Year": "2011",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 21,
+      "deck area": "155,000",
+      "pavement miles": null
+   },
+   "165": {
+      "Project Name": "MN21",
+      "Year": "2011",
+      "Application": "Bridge Deck Scanning",
+      "State": "MN",
+      "# of decks": 22,
+      "deck area": "540,000",
+      "pavement miles": null
+   },
+   "166": {
+      "Project Name": "MTPK4",
+      "Year": "2011",
+      "Application": "Bridge Deck Scanning",
+      "State": "ME",
+      "# of decks": 10,
+      "deck area": "116,400",
+      "pavement miles": null
+   },
+   "167": {
+      "Project Name": "Montana",
+      "Year": "2011",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 25
+   },
+   "168": {
+      "Project Name": "PATPK",
+      "Year": "2011",
+      "Application": "Pavement Structure Evaluation",
+      "State": "PA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 80
+   },
+   "169": {
+      "Project Name": "CH2M Hill/IDOT",
+      "Year": "2012",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 17,
+      "deck area": "118,000",
+      "pavement miles": null
+   },
+   "170": {
+      "Project Name": "Mn22",
+      "Year": "2012",
+      "Application": "Bridge Deck Scanning",
+      "State": "MN",
+      "# of decks": 15,
+      "deck area": "560,000",
+      "pavement miles": null
+   },
+   "171": {
+      "Project Name": "MTPK3",
+      "Year": "2012",
+      "Application": "Bridge Deck Scanning",
+      "State": "ME",
+      "# of decks": 9,
+      "deck area": "75,740",
+      "pavement miles": null
+   },
+   "172": {
+      "Project Name": "ETC Chesapeake",
+      "Year": "2012",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 2,
+      "deck area": "21,000",
+      "pavement miles": null
+   },
+   "173": {
+      "Project Name": "Erdman Anthony",
+      "Year": "2012",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": 1,
+      "deck area": "27,896",
+      "pavement miles": null
+   },
+   "174": {
+      "Project Name": "Providence",
+      "Year": "2012",
+      "Application": "Pavement Structure Evaluation",
+      "State": "RI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 1
+   },
+   "175": {
+      "Project Name": "Bristol Warren, RI",
+      "Year": "2012",
+      "Application": "Pavement Structure Evaluation",
+      "State": "RI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 3
+   },
+   "176": {
+      "Project Name": "Alaska",
+      "Year": "2012",
+      "Application": "Pavement Structure Evaluation",
+      "State": "AK",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 270
+   },
+   "177": {
+      "Project Name": "SCAC",
+      "Year": "2012",
+      "Application": "Pavement Structure Evaluation",
+      "State": "SC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 276
+   },
+   "178": {
+      "Project Name": "MnDOT Metro and D6",
+      "Year": "2013",
+      "Application": "Bridge Deck Scanning",
+      "State": "MN",
+      "# of decks": 44,
+      "deck area": "847,000",
+      "pavement miles": null
+   },
+   "179": {
+      "Project Name": "Idaho",
+      "Year": "2013",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 4,
+      "deck area": "26,725",
+      "pavement miles": null
+   },
+   "180": {
+      "Project Name": "Montana",
+      "Year": "2013",
+      "Application": "Bridge Deck Scanning",
+      "State": "MT",
+      "# of decks": 120,
+      "deck area": "1,377,435",
+      "pavement miles": null
+   },
+   "181": {
+      "Project Name": "Frigo Bridge Wisconsin",
+      "Year": "2013",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 1,
+      "deck area": "32,000",
+      "pavement miles": null
+   },
+   "182": {
+      "Project Name": "Willis Ave, NY",
+      "Year": "2013",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 1,
+      "deck area": "10,660",
+      "pavement miles": null
+   },
+   "183": {
+      "Project Name": "Michigan",
+      "Year": "2013",
+      "Application": "Bridge Deck Scanning",
+      "State": "MI",
+      "# of decks": 57,
+      "deck area": "487,000",
+      "pavement miles": null
+   },
+   "184": {
+      "Project Name": "CBBT",
+      "Year": "2013",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 1,
+      "deck area": "290,160",
+      "pavement miles": null
+   },
+   "185": {
+      "Project Name": "WisDOT NE",
+      "Year": "2013",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 7,
+      "deck area": "80,000",
+      "pavement miles": null
+   },
+   "186": {
+      "Project Name": "Rt. 16 NH deck",
+      "Year": "2013",
+      "Application": "Bridge Deck Scanning",
+      "State": "NH",
+      "# of decks": 1,
+      "deck area": "6,900",
+      "pavement miles": null
+   },
+   "187": {
+      "Project Name": "PA 2 decks WBCM",
+      "Year": "2013",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": 2,
+      "deck area": "45,786",
+      "pavement miles": null
+   },
+   "188": {
+      "Project Name": "WisDOT SW",
+      "Year": "2013",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 17,
+      "deck area": "387,365",
+      "pavement miles": null
+   },
+   "189": {
+      "Project Name": "Cleveland Memorial - PSI",
+      "Year": "2013",
+      "Application": "Pavement Structure Evaluation",
+      "State": "OH",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 4
+   },
+   "190": {
+      "Project Name": "Idaho",
+      "Year": "2013",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 19
+   },
+   "191": {
+      "Project Name": "Parsons Dallas",
+      "Year": "2013",
+      "Application": "Pavement Structure Evaluation",
+      "State": "TX",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 133
+   },
+   "192": {
+      "Project Name": "NDSU",
+      "Year": "2013",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ND",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 1550
+   },
+   "193": {
+      "Project Name": "NHIC",
+      "Year": "2013",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NH",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 2
+   },
+   "194": {
+      "Project Name": "Bryant Downtown ",
+      "Year": "2013",
+      "Application": "Pavement Structure Evaluation",
+      "State": "RI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 2
+   },
+   "195": {
+      "Project Name": "Terracon",
+      "Year": "2013",
+      "Application": "Pavement Structure Evaluation",
+      "State": "IA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 5
+   },
+   "196": {
+      "Project Name": "Richmond - Chesterfield Co.",
+      "Year": "2013",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 3
+   },
+   "197": {
+      "Project Name": "MnDOT",
+      "Year": "2013",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 150
+   },
+   "198": {
+      "Project Name": "WIS SW",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 22,
+      "deck area": "248,285",
+      "pavement miles": null
+   },
+   "199": {
+      "Project Name": "WIS NC",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 19,
+      "deck area": "180,560",
+      "pavement miles": null
+   },
+   "200": {
+      "Project Name": "WIS NE",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 8,
+      "deck area": "63,000",
+      "pavement miles": null
+   },
+   "201": {
+      "Project Name": "NYSTA",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 5,
+      "deck area": "86,600",
+      "pavement miles": null
+   },
+   "202": {
+      "Project Name": "ODOT",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "OH",
+      "# of decks": 34,
+      "deck area": "244,825",
+      "pavement miles": null
+   },
+   "203": {
+      "Project Name": "Idaho D6",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 2,
+      "deck area": "37,000",
+      "pavement miles": null
+   },
+   "204": {
+      "Project Name": "ARA Tollway",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 5,
+      "deck area": "64,090",
+      "pavement miles": null
+   },
+   "205": {
+      "Project Name": "HOH Chicago",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 3,
+      "deck area": "44,550",
+      "pavement miles": null
+   },
+   "206": {
+      "Project Name": "CT Bassett Road",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 1,
+      "deck area": "10,410",
+      "pavement miles": null
+   },
+   "207": {
+      "Project Name": "Waukesha",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 12,
+      "deck area": "38,963",
+      "pavement miles": null
+   },
+   "208": {
+      "Project Name": "Waterbury CT",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 9,
+      "deck area": "679,248",
+      "pavement miles": null
+   },
+   "209": {
+      "Project Name": "Colorado",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "CO",
+      "# of decks": 15,
+      "deck area": "78,720",
+      "pavement miles": null
+   },
+   "210": {
+      "Project Name": "NYSTA 2",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 7,
+      "deck area": "89,186",
+      "pavement miles": null
+   },
+   "211": {
+      "Project Name": "Maryland",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "MD",
+      "# of decks": 5,
+      "deck area": "168,555",
+      "pavement miles": null
+   },
+   "212": {
+      "Project Name": "Eccoiii",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 2,
+      "deck area": "89,694",
+      "pavement miles": null
+   },
+   "213": {
+      "Project Name": "CME Hartford Decks",
+      "Year": "2014",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 12,
+      "deck area": "321,347",
+      "pavement miles": null
+   },
+   "214": {
+      "Project Name": "I-93 viaduct MA",
+      "Year": "2014",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 24
+   },
+   "215": {
+      "Project Name": "CT route 2 pavement",
+      "Year": "2014",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 4
+   },
+   "216": {
+      "Project Name": "Fort Hood pavement",
+      "Year": "2014",
+      "Application": "Pavement Structure Evaluation",
+      "State": "TX",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 5
+   },
+   "217": {
+      "Project Name": "Berlin pavement",
+      "Year": "2014",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NH",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 65
+   },
+   "218": {
+      "Project Name": "Idaho district 6",
+      "Year": "2014",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 29
+   },
+   "219": {
+      "Project Name": "Maryland pavement 18 sections",
+      "Year": "2014",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MD",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 90
+   },
+   "220": {
+      "Project Name": "Indiana Tpk",
+      "Year": "2014",
+      "Application": "Pavement Structure Evaluation",
+      "State": "IN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 314
+   },
+   "221": {
+      "Project Name": "WIS SW",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 21,
+      "deck area": "317,814",
+      "pavement miles": null
+   },
+   "222": {
+      "Project Name": "WIS NE",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 55,
+      "deck area": "401,362",
+      "pavement miles": null
+   },
+   "223": {
+      "Project Name": "Wis NW",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 42,
+      "deck area": "321,944",
+      "pavement miles": null
+   },
+   "224": {
+      "Project Name": "Montana",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "MT",
+      "# of decks": 116,
+      "deck area": "898,134",
+      "pavement miles": null
+   },
+   "225": {
+      "Project Name": "Wyoming",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "WY",
+      "# of decks": 36,
+      "deck area": "255,733",
+      "pavement miles": null
+   },
+   "226": {
+      "Project Name": "Idaho Loop",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 18,
+      "deck area": "40,000",
+      "pavement miles": null
+   },
+   "227": {
+      "Project Name": "Idaho I-84",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 17,
+      "deck area": "150,000",
+      "pavement miles": null
+   },
+   "228": {
+      "Project Name": "Michigan",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "MI",
+      "# of decks": 11,
+      "deck area": "411,118",
+      "pavement miles": null
+   },
+   "229": {
+      "Project Name": "MSA (Wis)",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 9,
+      "deck area": "66,500",
+      "pavement miles": null
+   },
+   "230": {
+      "Project Name": "CJM",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 2,
+      "deck area": "56,300",
+      "pavement miles": null
+   },
+   "231": {
+      "Project Name": "Maine TPK (HNTB)",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "ME",
+      "# of decks": 11,
+      "deck area": "46,975",
+      "pavement miles": null
+   },
+   "232": {
+      "Project Name": "ODOT",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "OH",
+      "# of decks": 29,
+      "deck area": "133,300",
+      "pavement miles": null
+   },
+   "233": {
+      "Project Name": "LV viaduct",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "NV",
+      "# of decks": 1,
+      "deck area": "1,300,000",
+      "pavement miles": null
+   },
+   "234": {
+      "Project Name": "NYSTA",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 9,
+      "deck area": "70,918",
+      "pavement miles": null
+   },
+   "235": {
+      "Project Name": "Eccoiii - LIE deck",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 1,
+      "deck area": "43,350",
+      "pavement miles": null
+   },
+   "236": {
+      "Project Name": "ODOT D8",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "OH",
+      "# of decks": 1,
+      "deck area": "89,000",
+      "pavement miles": null
+   },
+   "237": {
+      "Project Name": "ARA - IL Tollway",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 26,
+      "deck area": "217,110",
+      "pavement miles": null
+   },
+   "238": {
+      "Project Name": "WJE - Poplar Street Complex Ramps",
+      "Year": "2015",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 2,
+      "deck area": "320,000",
+      "pavement miles": null
+   },
+   "239": {
+      "Project Name": "Idaho Loop",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 515
+   },
+   "240": {
+      "Project Name": "AMEC VA I-64 Voids",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 14
+   },
+   "241": {
+      "Project Name": "AMEC VA I-81 Thickness",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 7
+   },
+   "242": {
+      "Project Name": "Idaho D4 I-84 #1",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 26
+   },
+   "243": {
+      "Project Name": "CDM Smith CTDOT Rt 2",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 5
+   },
+   "244": {
+      "Project Name": "MnDOT Metro",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 185
+   },
+   "245": {
+      "Project Name": "MWH Kansas Pavement Distress",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "KS",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 6
+   },
+   "246": {
+      "Project Name": "Maryland Shoulder Eval. MES & Baker",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MD",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 28
+   },
+   "247": {
+      "Project Name": "Task 1_Ohio D1 Joint Study",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "OH",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 24
+   },
+   "248": {
+      "Project Name": "AMEC#3 I-81 VA Thickness",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 6
+   },
+   "249": {
+      "Project Name": "Idaho D4 I-84 #2",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 68
+   },
+   "250": {
+      "Project Name": "Maryland Shoulder Eval. #2",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MD",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 72
+   },
+   "251": {
+      "Project Name": "NDSU GPR County Roads",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ND",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 2667
+   },
+   "252": {
+      "Project Name": "AMEC #4 Chesapeake Pavement",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 113
+   },
+   "253": {
+      "Project Name": "I-90 Indiana",
+      "Year": "2015",
+      "Application": "Pavement Structure Evaluation",
+      "State": "IN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 10
+   },
+   "254": {
+      "Project Name": "STV",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 1,
+      "deck area": "153,900",
+      "pavement miles": null
+   },
+   "255": {
+      "Project Name": "WSP Parsons",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 15,
+      "deck area": "237,730",
+      "pavement miles": null
+   },
+   "256": {
+      "Project Name": "WisDOT SW_WO#5",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 28,
+      "deck area": "258,990",
+      "pavement miles": null
+   },
+   "257": {
+      "Project Name": "WisDOT NE_WO#4",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 45,
+      "deck area": "403,295",
+      "pavement miles": 122
+   },
+   "258": {
+      "Project Name": "WisDOT NE_WO#7",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 77,
+      "deck area": "641,927",
+      "pavement miles": null
+   },
+   "259": {
+      "Project Name": "WisDOT NW_WO#8",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 44,
+      "deck area": "323,101",
+      "pavement miles": null
+   },
+   "260": {
+      "Project Name": "Idaho D6_I-15",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 38,
+      "deck area": "239,571",
+      "pavement miles": null
+   },
+   "261": {
+      "Project Name": "AGEO Idaho US-20",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 8,
+      "deck area": "69,283",
+      "pavement miles": null
+   },
+   "262": {
+      "Project Name": "ARA IL Tollway Decks",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 26,
+      "deck area": "799,137",
+      "pavement miles": null
+   },
+   "263": {
+      "Project Name": "CME CT ",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 1,
+      "deck area": "35,708",
+      "pavement miles": null
+   },
+   "264": {
+      "Project Name": "WisDOT NE_WO#6",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 8,
+      "deck area": "34,156",
+      "pavement miles": null
+   },
+   "265": {
+      "Project Name": "MSA (Wis)",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 3,
+      "deck area": "28,382",
+      "pavement miles": null
+   },
+   "266": {
+      "Project Name": "CHA_NYSTA",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 3,
+      "deck area": "111,652",
+      "pavement miles": null
+   },
+   "267": {
+      "Project Name": "ODOT D1_Task#2",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "OH",
+      "# of decks": 23,
+      "deck area": "129,913",
+      "pavement miles": null
+   },
+   "268": {
+      "Project Name": "AMEC High Rise Bridge",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 1,
+      "deck area": "289,423",
+      "pavement miles": null
+   },
+   "269": {
+      "Project Name": "RS&H",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "FL",
+      "# of decks": 14,
+      "deck area": "311,422",
+      "pavement miles": null
+   },
+   "270": {
+      "Project Name": "AEI",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "TN",
+      "# of decks": 8,
+      "deck area": "403,514",
+      "pavement miles": null
+   },
+   "271": {
+      "Project Name": "Waukeshaw County IR",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 4,
+      "deck area": "58,181",
+      "pavement miles": null
+   },
+   "272": {
+      "Project Name": "WisDOT NE_WO#9",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 1,
+      "deck area": "6,687",
+      "pavement miles": null
+   },
+   "273": {
+      "Project Name": "HDR",
+      "Year": "2016",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 8
+   },
+   "274": {
+      "Project Name": "WSP Parsons",
+      "Year": "2016",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 22
+   },
+   "275": {
+      "Project Name": "MnDOT Pavement",
+      "Year": "2016",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 116
+   },
+   "276": {
+      "Project Name": "Idaho D6_I-15",
+      "Year": "2016",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 168
+   },
+   "277": {
+      "Project Name": "P&P I-85 Pavement Survey",
+      "Year": "2016",
+      "Application": "Pavement Structure Evaluation",
+      "State": "SC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 72
+   },
+   "278": {
+      "Project Name": "FDOT SHRP2 IAP",
+      "Year": "2016",
+      "Application": "Consulting & Research",
+      "State": "FL",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "279": {
+      "Project Name": "MnDOTSHRP2 IAP",
+      "Year": "2016",
+      "Application": "Consulting & Research",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "280": {
+      "Project Name": "WISDOT NE WO#10 MSE Wall Void Study",
+      "Year": "2016",
+      "Application": "Other Projects",
+      "State": "NE",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "281": {
+      "Project Name": "CME CT ",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 1,
+      "deck area": "35,708",
+      "pavement miles": null
+   },
+   "282": {
+      "Project Name": "OregonDOT Bridge Decks",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "OR",
+      "# of decks": 52,
+      "deck area": "2,778,586",
+      "pavement miles": null
+   },
+   "283": {
+      "Project Name": "OregonDOT Bridge Decks",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "OR",
+      "# of decks": 10,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "284": {
+      "Project Name": "WisDOT Manitowoc WO#1",
+      "Year": "2016",
+      "Application": "Pavement Structure Evaluation",
+      "State": "WI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "285": {
+      "Project Name": "MnDOT NE pavement",
+      "Year": "2016",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 70
+   },
+   "286": {
+      "Project Name": "Jacobs Midway Airport TSA Bridge",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "287": {
+      "Project Name": "Westgate Bridge Melbourne",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "AU",
+      "# of decks": 1,
+      "deck area": "105,271",
+      "pavement miles": null
+   },
+   "288": {
+      "Project Name": "Dewberry Dennis,Ma Rebar",
+      "Year": "2016",
+      "Application": "Concrete Structure Scanning",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "289": {
+      "Project Name": "Idaho D1 Coeur d'Alene",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 2,
+      "deck area": "103,594",
+      "pavement miles": null
+   },
+   "290": {
+      "Project Name": "NYSTA Buffalo Decks",
+      "Year": "2016",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 4,
+      "deck area": "22,193",
+      "pavement miles": null
+   },
+   "291": {
+      "Project Name": "Westgate Granite Boulders",
+      "Year": "2016",
+      "Application": "Other Projects",
+      "State": "AU",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "292": {
+      "Project Name": "Lowell Void Study",
+      "Year": "2016",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "293": {
+      "Project Name": "WISDOT SW WO#2",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 14,
+      "deck area": "299,807",
+      "pavement miles": null
+   },
+   "294": {
+      "Project Name": "WISDOT NE WO#3",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 40,
+      "deck area": "436,725",
+      "pavement miles": null
+   },
+   "295": {
+      "Project Name": "Homestead Suites",
+      "Year": "2017",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "296": {
+      "Project Name": "Stateside Concrete Locating",
+      "Year": "2017",
+      "Application": "Concrete Structure Scanning",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "297": {
+      "Project Name": "VAR-D01 ODOT",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "OH",
+      "# of decks": 48,
+      "deck area": "237,628",
+      "pavement miles": null
+   },
+   "298": {
+      "Project Name": "JMS Pascack Road",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 2,
+      "deck area": "28,352",
+      "pavement miles": null
+   },
+   "299": {
+      "Project Name": "Iowa 3D-Radar Bridges",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "IA",
+      "# of decks": 7,
+      "deck area": "78,848",
+      "pavement miles": null
+   },
+   "300": {
+      "Project Name": "Fischbach & Moore PT Locating",
+      "Year": "2017",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "301": {
+      "Project Name": "Shamut ave. Boston",
+      "Year": "2017",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "302": {
+      "Project Name": "ID Corridor Inventory D6",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 23,
+      "deck area": "121,784",
+      "pavement miles": null
+   },
+   "303": {
+      "Project Name": "ID Corridor Inventory D6",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 363
+   },
+   "304": {
+      "Project Name": "WISDOT NC WO4",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 17,
+      "deck area": "223,302",
+      "pavement miles": null
+   },
+   "305": {
+      "Project Name": "AMEC Falls Church Pavement",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 80
+   },
+   "306": {
+      "Project Name": "AMEC I-64 Tunnel Evaluation",
+      "Year": "2017",
+      "Application": "Concrete Structure Scanning",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "307": {
+      "Project Name": "AMEC I-64 Tunnel Evaluation",
+      "Year": "2017",
+      "Application": "Concrete Structure Scanning",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "308": {
+      "Project Name": "AMEC I-64 Tunnel Evaluation",
+      "Year": "2017",
+      "Application": "Concrete Structure Scanning",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "309": {
+      "Project Name": "Haverhill National Grid",
+      "Year": "2017",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "310": {
+      "Project Name": "WISDOT NE WO5",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 56,
+      "deck area": "412,384",
+      "pavement miles": null
+   },
+   "311": {
+      "Project Name": "ICE GPR Survey",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 22
+   },
+   "312": {
+      "Project Name": "City of St Paul Lafayette Rd over RR",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "MN",
+      "# of decks": 1,
+      "deck area": "23,127",
+      "pavement miles": null
+   },
+   "313": {
+      "Project Name": "LaCrosse WI",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 4,
+      "deck area": "40,511",
+      "pavement miles": null
+   },
+   "314": {
+      "Project Name": "Terracon I-85 South Carolina",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "SC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 24
+   },
+   "315": {
+      "Project Name": "NE WisDOT WO6 MSE Walls",
+      "Year": "2017",
+      "Application": "Concrete Structure Scanning",
+      "State": "WI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "316": {
+      "Project Name": "U of SC Bridge Decks",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "SC",
+      "# of decks": 5,
+      "deck area": "77,444",
+      "pavement miles": null
+   },
+   "317": {
+      "Project Name": "AMEC I-664",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 6
+   },
+   "318": {
+      "Project Name": "AMEC CR 602 Surry",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 3
+   },
+   "319": {
+      "Project Name": "AMEC US 258 Smithfield",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 1
+   },
+   "320": {
+      "Project Name": "AMEC SR 139 Jarratt",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 1
+   },
+   "321": {
+      "Project Name": "ARA GPR Montgomery County",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "IL",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 4
+   },
+   "322": {
+      "Project Name": "Fisher Associates Elmira Deck",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 1,
+      "deck area": "27,000",
+      "pavement miles": null
+   },
+   "323": {
+      "Project Name": "Fischer Boston Tunnels",
+      "Year": "2017",
+      "Application": "Concrete Structure Scanning",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "324": {
+      "Project Name": "ITD District 5 I-86 Pavement Evaluation",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 85
+   },
+   "325": {
+      "Project Name": "NCE Salt Lake City",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "UT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 5
+   },
+   "326": {
+      "Project Name": "Metric Construction (Lucas)",
+      "Year": "2017",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "327": {
+      "Project Name": "Metric Construction",
+      "Year": "2017",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "328": {
+      "Project Name": "BDI Wall Analysis",
+      "Year": "2017",
+      "Application": "Concrete Structure Scanning",
+      "State": "NA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "329": {
+      "Project Name": "VTTI Network Level Pavement Survey",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 2617
+   },
+   "330": {
+      "Project Name": "MnDOT NE Pavement",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 117
+   },
+   "331": {
+      "Project Name": "P&P I-85 MP98-MP106",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "SC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 16
+   },
+   "332": {
+      "Project Name": "VDOT NDT Bridge Decks",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 19,
+      "deck area": "252,837",
+      "pavement miles": null
+   },
+   "333": {
+      "Project Name": "HNTB York River Bridge",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "ME",
+      "# of decks": 2,
+      "deck area": "38,108",
+      "pavement miles": null
+   },
+   "334": {
+      "Project Name": "Dewberry Brooklyn Army Terminal",
+      "Year": "2017",
+      "Application": "Concrete Structure Scanning",
+      "State": "NY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "335": {
+      "Project Name": "SAM Colorado Tunnel Data Processing",
+      "Year": "2017",
+      "Application": "Concrete Structure Scanning",
+      "State": "CO",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "336": {
+      "Project Name": "NCE SFIA 2017 GPR Survey",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "337": {
+      "Project Name": "ARA IL Tollway Decks",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 12,
+      "deck area": "408,039",
+      "pavement miles": null
+   },
+   "338": {
+      "Project Name": "UDOT Bridge Decks",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "UT",
+      "# of decks": 25,
+      "deck area": "160,960",
+      "pavement miles": null
+   },
+   "339": {
+      "Project Name": "BDI Nebraska Decks",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "NE",
+      "# of decks": 10,
+      "deck area": "76,485",
+      "pavement miles": null
+   },
+   "340": {
+      "Project Name": "2 BDI Data Collection",
+      "Year": "2017",
+      "Application": "Other Projects",
+      "State": "NA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "341": {
+      "Project Name": "AMEC I-64 Hampton Roads",
+      "Year": "2017",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 80
+   },
+   "342": {
+      "Project Name": "BDI Idaho Decks",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 8,
+      "deck area": "81,646",
+      "pavement miles": null
+   },
+   "343": {
+      "Project Name": "UAV Internal R&D Drones",
+      "Year": "2017",
+      "Application": "Consulting & Research",
+      "State": "NA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "344": {
+      "Project Name": "HDR TXDOT Decks",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "TX",
+      "# of decks": 5,
+      "deck area": "147,073",
+      "pavement miles": null
+   },
+   "345": {
+      "Project Name": "BDI NC Decks",
+      "Year": "2017",
+      "Application": "Bridge Deck Scanning",
+      "State": "NC",
+      "# of decks": 3,
+      "deck area": "26,058",
+      "pavement miles": null
+   },
+   "346": {
+      "Project Name": "BDI Delaware Training",
+      "Year": "2017",
+      "Application": "Consulting & Research",
+      "State": "DE",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "347": {
+      "Project Name": "National Grid Salem Facility",
+      "Year": "2018",
+      "Application": "",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "348": {
+      "Project Name": "Garver DFW Airport",
+      "Year": "2018",
+      "Application": "Concrete Structure Scanning",
+      "State": "TX",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "349": {
+      "Project Name": "M&N Granby Street Bridge VA",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 1,
+      "deck area": "87,036",
+      "pavement miles": null
+   },
+   "350": {
+      "Project Name": "NCE SFIA 2018 GPR Survey",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "351": {
+      "Project Name": "PSI_I-90 in D12 Ohio",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "OH",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 16
+   },
+   "352": {
+      "Project Name": "Basalt Bedrock",
+      "Year": "2018",
+      "Application": "Other Projects",
+      "State": "AUS",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "353": {
+      "Project Name": "Israel Pavement Network",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ISR",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 4350
+   },
+   "354": {
+      "Project Name": "NCHRP_NCE_Bonded Concrete",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "various",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 100
+   },
+   "355": {
+      "Project Name": "Stateside Homestead Franklin",
+      "Year": "2018",
+      "Application": "",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "356": {
+      "Project Name": "Stantec_Arch Bridge KY",
+      "Year": "2018",
+      "Application": "Other Projects",
+      "State": "KY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "357": {
+      "Project Name": "Stantec_Arch Bridge KY",
+      "Year": "2018",
+      "Application": "Other Projects",
+      "State": "KY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "358": {
+      "Project Name": "KCI Tech_MSHA Pavement Surveys",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 326
+   },
+   "359": {
+      "Project Name": "ARA IL Tollway Pavement Voids",
+      "Year": "2018",
+      "Application": "Other Projects",
+      "State": "IL",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "360": {
+      "Project Name": "WisDOT NE WO#8",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 1,
+      "deck area": "638,600",
+      "pavement miles": null
+   },
+   "361": {
+      "Project Name": "WisDOT SW WO#7",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 42,
+      "deck area": "444,137",
+      "pavement miles": null
+   },
+   "362": {
+      "Project Name": "MnDOT District 4 Pavement ",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 215
+   },
+   "363": {
+      "Project Name": "WisDOT NE WO#10",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 8,
+      "deck area": "891,601",
+      "pavement miles": null
+   },
+   "364": {
+      "Project Name": "Amec US-17 Pavement Survey",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 2
+   },
+   "365": {
+      "Project Name": "WisDOT SW WO#9",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 80,
+      "deck area": "874,593",
+      "pavement miles": null
+   },
+   "366": {
+      "Project Name": "MnDOT District 7 Pavement Work Order 1",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 198
+   },
+   "367": {
+      "Project Name": "ODOT D6_Infrared Decks Downtown Columbus",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "OH",
+      "# of decks": 7,
+      "deck area": "192,612",
+      "pavement miles": null
+   },
+   "368": {
+      "Project Name": "National Grid RI Pavement",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "RI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 5
+   },
+   "369": {
+      "Project Name": "M&SG Michigan Concrete Deterioration",
+      "Year": "2018",
+      "Application": "Concrete Structure Scanning",
+      "State": "MI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "370": {
+      "Project Name": "M&SG Concrete Bridge Deck",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "",
+      "# of decks": 1,
+      "deck area": "4,992",
+      "pavement miles": null
+   },
+   "371": {
+      "Project Name": "MnDOT_D1 Pavement",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 58
+   },
+   "372": {
+      "Project Name": "Fischbach and Moore_Fire Alarm",
+      "Year": "2018",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "373": {
+      "Project Name": "Fond du Lac Wisconsin Rebar Mapping",
+      "Year": "2018",
+      "Application": "Concrete Structure Scanning",
+      "State": "WI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "374": {
+      "Project Name": "Delaware Memorial Bridge Deck ",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "DE",
+      "# of decks": 1,
+      "deck area": "550,576",
+      "pavement miles": null
+   },
+   "375": {
+      "Project Name": "BDI WSP Blatnik Bridge",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "MN",
+      "# of decks": 1,
+      "deck area": "624,516",
+      "pavement miles": null
+   },
+   "376": {
+      "Project Name": "WisDOT WO#12_NE Region Decks ",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 21,
+      "deck area": "179,418",
+      "pavement miles": null
+   },
+   "377": {
+      "Project Name": "BDI U of Colorado GPR Bridge Decks",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "CO",
+      "# of decks": 5,
+      "deck area": "30,973",
+      "pavement miles": null
+   },
+   "378": {
+      "Project Name": "MoDOT Bridge Decks",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "MO",
+      "# of decks": 5,
+      "deck area": "94,680",
+      "pavement miles": null
+   },
+   "379": {
+      "Project Name": "Amec_ Holland Road Pavement Survey",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 5
+   },
+   "380": {
+      "Project Name": "LM Heavy Civil MBTA Ruggles",
+      "Year": "2018",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "381": {
+      "Project Name": "CJM_Br. No. 00948 Rte. 34 Orange CT",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 1,
+      "deck area": "1,972",
+      "pavement miles": null
+   },
+   "382": {
+      "Project Name": "GM2_I-95 Greenwich CT Dowels",
+      "Year": "2018",
+      "Application": "Concrete Structure Scanning",
+      "State": "CT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "383": {
+      "Project Name": "GM2_I-95 Greenwich CT",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 23,
+      "deck area": "698,825",
+      "pavement miles": null
+   },
+   "384": {
+      "Project Name": "GM2_I-95 Greenwich CT",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 15
+   },
+   "385": {
+      "Project Name": "Lacrosse Copeland Ave. IR",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 1,
+      "deck area": "19,663",
+      "pavement miles": null
+   },
+   "386": {
+      "Project Name": "Amec_Laskin Road",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 3
+   },
+   "387": {
+      "Project Name": "JTC_Hudson NH Bridge Deck",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "NH",
+      "# of decks": 2,
+      "deck area": "33,712",
+      "pavement miles": null
+   },
+   "388": {
+      "Project Name": "CME_Stamford CT bridge deck",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 1,
+      "deck area": "4,720",
+      "pavement miles": null
+   },
+   "389": {
+      "Project Name": "M&N_Gum Swamp Bridge Deck",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 1,
+      "deck area": "2,160",
+      "pavement miles": null
+   },
+   "390": {
+      "Project Name": "MnDOT Metro Pavement",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 319
+   },
+   "391": {
+      "Project Name": "SD Blackhills Bridge Deck",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "SD",
+      "# of decks": 1,
+      "deck area": "81,837",
+      "pavement miles": null
+   },
+   "392": {
+      "Project Name": "H&H Promenade Bridge Deck Voids",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "",
+      "# of decks": 1,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "393": {
+      "Project Name": "E&TS_Hampton Blvd SB Deck in VA",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 1,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "394": {
+      "Project Name": "Michigan HRV Bridge Decks",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "MI",
+      "# of decks": 137,
+      "deck area": "1,637,639",
+      "pavement miles": null
+   },
+   "395": {
+      "Project Name": "GDOT I_85 pavement survey",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 26
+   },
+   "396": {
+      "Project Name": "Amec_NCDOT I-40 pavement survey",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 13
+   },
+   "397": {
+      "Project Name": "Wood_I-88 Bridge Decks",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "",
+      "# of decks": 3,
+      "deck area": "42,608",
+      "pavement miles": null
+   },
+   "398": {
+      "Project Name": "Brewerton Rockhampton Airport",
+      "Year": "2018",
+      "Application": "Concrete Structure Scanning",
+      "State": "AUS",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "399": {
+      "Project Name": "ECIL Emirates Pavement",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "400": {
+      "Project Name": "Strata_ID_Pavement",
+      "Year": "2018",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 3
+   },
+   "401": {
+      "Project Name": "Terracon Boring Clearance ",
+      "Year": "2018",
+      "Application": "Other Projects",
+      "State": "PA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "402": {
+      "Project Name": "M&S Grid Analysis",
+      "Year": "2018",
+      "Application": "Other Projects",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "403": {
+      "Project Name": "ETS Norfolk Bridge Girders",
+      "Year": "2018",
+      "Application": "Other Projects",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "404": {
+      "Project Name": "AI Eng. Rt28 Bridges",
+      "Year": "2018",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 4,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "405": {
+      "Project Name": "HDR RT 11 Harrisonburg ",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 5
+   },
+   "406": {
+      "Project Name": "Stateside Roxbury",
+      "Year": "2019",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "407": {
+      "Project Name": "Rubber Ave",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 8
+   },
+   "408": {
+      "Project Name": "ArDOT Bridge Deck",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "AR",
+      "# of decks": 1,
+      "deck area": "140,000",
+      "pavement miles": null
+   },
+   "409": {
+      "Project Name": "NOVA I-85 GA Pavement",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 68
+   },
+   "410": {
+      "Project Name": "CT8N over Naugatuck",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 1,
+      "deck area": "11,600",
+      "pavement miles": null
+   },
+   "411": {
+      "Project Name": "Terracon_Fall River Bolehole Survey",
+      "Year": "2019",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "412": {
+      "Project Name": "Wood_SR126 and US13",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 12
+   },
+   "413": {
+      "Project Name": "Alvi Asso_Baltimore I-83 Decks",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "MD",
+      "# of decks": 2,
+      "deck area": "315,258",
+      "pavement miles": null
+   },
+   "414": {
+      "Project Name": "Camposbasso Utility Locating",
+      "Year": "2019",
+      "Application": "Subsurface Utility Engineering",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "415": {
+      "Project Name": "WisDOT NC_WO#3",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 50,
+      "deck area": "303,563",
+      "pavement miles": null
+   },
+   "416": {
+      "Project Name": "WisDOT NC_WO#4",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 4,
+      "deck area": "28,715",
+      "pavement miles": null
+   },
+   "417": {
+      "Project Name": "WSP_BATA Bridge Decks",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "CA",
+      "# of decks": 1,
+      "deck area": "1,681,997",
+      "pavement miles": null
+   },
+   "418": {
+      "Project Name": "UKY_I-75 Pavement Structure",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "KY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 50
+   },
+   "419": {
+      "Project Name": "BLA_Oak Park Bridge Decks",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 3,
+      "deck area": "32,051",
+      "pavement miles": null
+   },
+   "420": {
+      "Project Name": "WisDOT NE_WO#2",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 152,
+      "deck area": "1,952,395",
+      "pavement miles": null
+   },
+   "421": {
+      "Project Name": "C&S Syracuse 3Dradar Trolley Tracks",
+      "Year": "2019",
+      "Application": "Other Projects",
+      "State": "NY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "422": {
+      "Project Name": "Siva Corrosion_Washington DC Bridge Decks",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "DC",
+      "# of decks": 2,
+      "deck area": "53,654",
+      "pavement miles": null
+   },
+   "423": {
+      "Project Name": "WisDOT SW_WO#1",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 108,
+      "deck area": "900,654",
+      "pavement miles": null
+   },
+   "424": {
+      "Project Name": "Streetscan_Barrie ON Pavement Survey",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CAN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 200
+   },
+   "425": {
+      "Project Name": "Brewerton Rail Line",
+      "Year": "2019",
+      "Application": "Other Projects",
+      "State": "AUS",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "426": {
+      "Project Name": "Stantect Las Vegas Viaduct",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "NV",
+      "# of decks": 10,
+      "deck area": "1,180,442",
+      "pavement miles": null
+   },
+   "427": {
+      "Project Name": "RS&H_IL Bridge Decks",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 15,
+      "deck area": "220,353",
+      "pavement miles": null
+   },
+   "428": {
+      "Project Name": "NECE Waltham",
+      "Year": "2019",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "429": {
+      "Project Name": "Westfield Columns",
+      "Year": "2019",
+      "Application": "Concrete Structure Scanning",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "430": {
+      "Project Name": "Wood_GPR_I-564",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 25
+   },
+   "431": {
+      "Project Name": "BDI_Oregon Decks",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "OR",
+      "# of decks": 9,
+      "deck area": "195,726",
+      "pavement miles": null
+   },
+   "432": {
+      "Project Name": "Wood_GPR_Williamsburg Pavements",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 10
+   },
+   "433": {
+      "Project Name": "MN District 7_Pavement",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 137
+   },
+   "434": {
+      "Project Name": "GPR_Imaging_Wagga_Wagga",
+      "Year": "2019",
+      "Application": "Other Projects",
+      "State": "AUS",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "435": {
+      "Project Name": "MSA Jefferson County IR Bridge Decks",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 2,
+      "deck area": "5,302",
+      "pavement miles": null
+   },
+   "436": {
+      "Project Name": "HT_Manchester Bridge Decks",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "NH",
+      "# of decks": 2,
+      "deck area": "62,066",
+      "pavement miles": null
+   },
+   "437": {
+      "Project Name": "NOVA I-20",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 17
+   },
+   "438": {
+      "Project Name": "GMU LA County training",
+      "Year": "2019",
+      "Application": "Consulting & Research",
+      "State": "CA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "439": {
+      "Project Name": "VHB_Acadia National Park",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ME",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 5
+   },
+   "440": {
+      "Project Name": "BDI Virginia Decks+Tunnel",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 4,
+      "deck area": "79,839",
+      "pavement miles": null
+   },
+   "441": {
+      "Project Name": "BDI_LADOTD_Vicksburg Bridge",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "LA",
+      "# of decks": 1,
+      "deck area": "763,804",
+      "pavement miles": null
+   },
+   "442": {
+      "Project Name": "ETS_Military Highway Voids",
+      "Year": "2019",
+      "Application": "Other Projects",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "443": {
+      "Project Name": "H&H Bronx RR Bridge Abutment",
+      "Year": "2019",
+      "Application": "Concrete Structure Scanning",
+      "State": "NY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "444": {
+      "Project Name": "Rettew_Rt 22 Pavement Survey",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "PA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 15
+   },
+   "445": {
+      "Project Name": "Collins_Green Bay Bridge",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 1,
+      "deck area": "3,614",
+      "pavement miles": null
+   },
+   "446": {
+      "Project Name": "ETS Waterside Garage",
+      "Year": "2019",
+      "Application": "Concrete Structure Scanning",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "447": {
+      "Project Name": "StreetScan_Beverly MA",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "448": {
+      "Project Name": "FHWA_Smokey Mountains",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "TN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 4
+   },
+   "449": {
+      "Project Name": "Element_Inver Grove Heights",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 135
+   },
+   "450": {
+      "Project Name": "HDR_I-495 pavement",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 3
+   },
+   "451": {
+      "Project Name": "TOCCI Woburn Filter Locating",
+      "Year": "2019",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "452": {
+      "Project Name": "TnDOT Netowrk Level Pavement",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "TN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 1970
+   },
+   "453": {
+      "Project Name": "HDR_Clark Fork Bridge",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "MT",
+      "# of decks": 1,
+      "deck area": "42,330",
+      "pavement miles": null
+   },
+   "454": {
+      "Project Name": "Air Line Locating Westford",
+      "Year": "2019",
+      "Application": "Other Projects",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "455": {
+      "Project Name": "NEL Worcester decks",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 2,
+      "deck area": "61,055",
+      "pavement miles": null
+   },
+   "456": {
+      "Project Name": "Nova_I-85_Franklin and Hart",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 28.8
+   },
+   "457": {
+      "Project Name": "Nova_SR-400_Fulton",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 37
+   },
+   "458": {
+      "Project Name": "John Turner Memorial footbridge",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 1,
+      "deck area": "3,017",
+      "pavement miles": null
+   },
+   "459": {
+      "Project Name": "Telamon SFO Apron",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "460": {
+      "Project Name": "WSP AZ I-17",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "AZ",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 30
+   },
+   "461": {
+      "Project Name": "BDI WSP Bennett and Wallace bridges",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 2,
+      "deck area": "519,783",
+      "pavement miles": null
+   },
+   "462": {
+      "Project Name": "NOVA I-285",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 25.6
+   },
+   "463": {
+      "Project Name": "TY Lin Buffalo Skyway",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 10,
+      "deck area": "288,081",
+      "pavement miles": null
+   },
+   "464": {
+      "Project Name": "AI Engineers - North Brookfield",
+      "Year": "2019",
+      "Application": "Other Projects",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "465": {
+      "Project Name": "BDI_CalTrans Capitol Expressway",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "CA",
+      "# of decks": 1,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "466": {
+      "Project Name": "ETS_Campostella Bridge Deck",
+      "Year": "2019",
+      "Application": "Bridge Deck Scanning",
+      "State": "",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "467": {
+      "Project Name": "NOVA_I-75",
+      "Year": "2019",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 29
+   },
+   "468": {
+      "Project Name": "GDOT_I-75",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 86
+   },
+   "469": {
+      "Project Name": "BDI_LADOTD_Grand Ecore Bridge",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "LA",
+      "# of decks": 1,
+      "deck area": "52,562",
+      "pavement miles": null
+   },
+   "470": {
+      "Project Name": "Intertek-PSI_Ohio I-480 Rebar Cover Survey",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "OH",
+      "# of decks": 1,
+      "deck area": "5,000",
+      "pavement miles": null
+   },
+   "471": {
+      "Project Name": "BDI_LADOTD_Lake City Bridges",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "LA",
+      "# of decks": 2,
+      "deck area": "70,960",
+      "pavement miles": null
+   },
+   "472": {
+      "Project Name": "TranSystems_Providence I95 Bridge",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "RI",
+      "# of decks": 1,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "473": {
+      "Project Name": "MoDOT_St Louis Bridges & Bagnell Dam",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "MO",
+      "# of decks": 15,
+      "deck area": "311,438",
+      "pavement miles": null
+   },
+   "474": {
+      "Project Name": "CHA_Ridgefield Depot Rd Bridge",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "RI",
+      "# of decks": 1,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "475": {
+      "Project Name": "TranSystems_Potter Hill Rd",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "RI",
+      "# of decks": 1,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "476": {
+      "Project Name": "WSP_Airport Bridge RI",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "RI",
+      "# of decks": 1,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "477": {
+      "Project Name": "Labella Associates_Seeley Creek Bridge",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 1,
+      "deck area": "4,620",
+      "pavement miles": null
+   },
+   "478": {
+      "Project Name": "BDI_HDR_ITD_Mores Creek Bridge Deck",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "ID",
+      "# of decks": 1,
+      "deck area": "20,976",
+      "pavement miles": null
+   },
+   "479": {
+      "Project Name": "SCS_14th Street DC Bridge Decks",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "DC",
+      "# of decks": 6,
+      "deck area": "166,178",
+      "pavement miles": null
+   },
+   "480": {
+      "Project Name": "NOVA_I-59",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 32
+   },
+   "481": {
+      "Project Name": "TEC Stonebridge River",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 1,
+      "deck area": "2,800",
+      "pavement miles": null
+   },
+   "482": {
+      "Project Name": "MnDOT_Pavement Study",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 105
+   },
+   "483": {
+      "Project Name": "WisDOT NW _WO#5",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 157,
+      "deck area": "1,269,319",
+      "pavement miles": null
+   },
+   "484": {
+      "Project Name": "WisDOT NW _WO#6",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 5,
+      "deck area": "87,922",
+      "pavement miles": null
+   },
+   "485": {
+      "Project Name": "WisDOT NW _WO#7",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 66,
+      "deck area": "834,526",
+      "pavement miles": null
+   },
+   "486": {
+      "Project Name": "Olson Construction Law",
+      "Year": "2020",
+      "Application": "Subsurface Utility Engineering",
+      "State": "ND",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "487": {
+      "Project Name": "VHB_Beacon Street Bridge",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 1,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "488": {
+      "Project Name": "WisDOT Central Office_WO#9",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 653,
+      "deck area": "6,356,354",
+      "pavement miles": null
+   },
+   "489": {
+      "Project Name": "Telamon CSO7 - 28L-10R core calibration",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "490": {
+      "Project Name": "Telamon CSO8 Taxiways A,B,C",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "491": {
+      "Project Name": "Wood_US-60",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 5
+   },
+   "492": {
+      "Project Name": "WisDOT NC_WO#8",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 41,
+      "deck area": "302,479",
+      "pavement miles": null
+   },
+   "493": {
+      "Project Name": "RSI NY Thruway Jamestown",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 2,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "494": {
+      "Project Name": "HNTB_VN-80 Bridge Deck",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 2,
+      "deck area": "523,986",
+      "pavement miles": null
+   },
+   "495": {
+      "Project Name": "NOVA_I-75",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 66
+   },
+   "496": {
+      "Project Name": "CHA_Dexter Coffin Bridge",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 1,
+      "deck area": "237,020",
+      "pavement miles": null
+   },
+   "497": {
+      "Project Name": "M&M_FDR Ramp",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 1,
+      "deck area": "74,400",
+      "pavement miles": null
+   },
+   "498": {
+      "Project Name": "Marker Geospatial_Colorado Springs_Pavement Assessment",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CO",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 630
+   },
+   "499": {
+      "Project Name": "CJM_I-91 SB Hartford, CT",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 1,
+      "deck area": "86,400",
+      "pavement miles": null
+   },
+   "500": {
+      "Project Name": "MoDOT St. Joseph Bridges",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "MO",
+      "# of decks": 5,
+      "deck area": "239,190",
+      "pavement miles": null
+   },
+   "501": {
+      "Project Name": "VTTI_TSD Pooled Fund Study Support",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "502": {
+      "Project Name": "Wood_Dulles Greenway",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 222
+   },
+   "503": {
+      "Project Name": "FDOT_Roosevelt Bridge",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "FL",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "504": {
+      "Project Name": "InDOT-Purdue NDE of Decks",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "IN",
+      "# of decks": 30,
+      "deck area": "311,389",
+      "pavement miles": null
+   },
+   "505": {
+      "Project Name": "Ottawa Hwy 417 Clay Balls",
+      "Year": "2020",
+      "Application": "Consulting & Research",
+      "State": "CAN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "506": {
+      "Project Name": "Nova_I-285_I-20 Ramps",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 11
+   },
+   "507": {
+      "Project Name": "NOVA_SR-1",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 10
+   },
+   "508": {
+      "Project Name": "NOVA_I-85 + SR-316",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 134
+   },
+   "509": {
+      "Project Name": "Axenics Drainage structure Tyngsboro",
+      "Year": "2020",
+      "Application": "Concrete Structure Scanning",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "510": {
+      "Project Name": "LaBella Associates_Rt 363 Bridge_Binghamton NY",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 1,
+      "deck area": "7,084",
+      "pavement miles": null
+   },
+   "511": {
+      "Project Name": "EFK Moen_Bureau Junction IL Decks",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 4,
+      "deck area": "42,725",
+      "pavement miles": null
+   },
+   "512": {
+      "Project Name": "Gary K Rubin_GPR Survey",
+      "Year": "2020",
+      "Application": "Other Projects",
+      "State": "??",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "513": {
+      "Project Name": "HNTB Belt Parkway Ramp",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 1,
+      "deck area": "88,500",
+      "pavement miles": null
+   },
+   "514": {
+      "Project Name": "MES_Utilities & Archaeological Study",
+      "Year": "2020",
+      "Application": "Subsurface Utility Engineering",
+      "State": "MD",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "515": {
+      "Project Name": "Axenics Utility Locating Survey",
+      "Year": "2020",
+      "Application": "Subsurface Utility Engineering",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "516": {
+      "Project Name": "BSC Lovell Road Bridge",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 1,
+      "deck area": "1,638",
+      "pavement miles": null
+   },
+   "517": {
+      "Project Name": "Progressive AE Hampton VA",
+      "Year": "2020",
+      "Application": "Concrete Structure Scanning",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "518": {
+      "Project Name": "NOVA SR-372",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 14
+   },
+   "519": {
+      "Project Name": "STRATA Burley ID",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 17
+   },
+   "520": {
+      "Project Name": "Senate Eng Versailles Bridge PA",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": 1,
+      "deck area": "7,254",
+      "pavement miles": null
+   },
+   "521": {
+      "Project Name": "Atlantis Hope St",
+      "Year": "2020",
+      "Application": "Other Projects",
+      "State": "MD",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "522": {
+      "Project Name": "HDR VDOT I-64 Seg1",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 94
+   },
+   "523": {
+      "Project Name": "HDR VDOT I-64 Seg4A",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 131
+   },
+   "524": {
+      "Project Name": "GMU Data Analysis",
+      "Year": "2020",
+      "Application": "Other Projects",
+      "State": "CA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "525": {
+      "Project Name": "Gary K Rubin_GPR Survey 2.0",
+      "Year": "2020",
+      "Application": "Other Projects",
+      "State": "??",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "526": {
+      "Project Name": "STRATA I-15 #89 to #93",
+      "Year": "2020",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 4
+   },
+   "527": {
+      "Project Name": "Dexter Coffin Bridge Coring",
+      "Year": "2020",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 1,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "528": {
+      "Project Name": "STRATA I-15 Rose IC to N Lava Rocks",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 7
+   },
+   "529": {
+      "Project Name": "LOCHNER_DuPage County Decks",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 12,
+      "deck area": "144,139",
+      "pavement miles": null
+   },
+   "530": {
+      "Project Name": "SCS_Rt1 Deck Washington DC",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "VA",
+      "# of decks": 1,
+      "deck area": "35,395",
+      "pavement miles": null
+   },
+   "531": {
+      "Project Name": "NOVA_SR-384",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 17
+   },
+   "532": {
+      "Project Name": "Gill_Dorchester Ave",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "MA",
+      "# of decks": 1,
+      "deck area": " ",
+      "pavement miles": null
+   },
+   "533": {
+      "Project Name": "LaBella_Allegany County CR-26 Bridge",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "NY",
+      "# of decks": 1,
+      "deck area": "9,792",
+      "pavement miles": null
+   },
+   "534": {
+      "Project Name": "STRATA_SH-75",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 14
+   },
+   "535": {
+      "Project Name": "NOVA_I-20_MP66-MP77",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 95
+   },
+   "536": {
+      "Project Name": "GM2 I-91 I-691 CT-15",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "CT",
+      "# of decks": 23,
+      "deck area": "167,857",
+      "pavement miles": null
+   },
+   "537": {
+      "Project Name": "GM2 I-91 I-691 CT-15",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 100
+   },
+   "538": {
+      "Project Name": "NOVA I-75",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 29
+   },
+   "539": {
+      "Project Name": "Wireless Construction Medfield Water Tank",
+      "Year": "2021",
+      "Application": "Concrete Structure Scanning",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "540": {
+      "Project Name": "GEODesign VT-30 Brattleboro to Newfane",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 20
+   },
+   "541": {
+      "Project Name": "ETS Seawall Area 6 Portsmouth VA",
+      "Year": "2021",
+      "Application": "Other Projects",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "542": {
+      "Project Name": "NOVA I-75 Fulton Approach Slabs",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "GA",
+      "# of decks": 9,
+      "deck area": "-",
+      "pavement miles": null
+   },
+   "543": {
+      "Project Name": "NOVA I-85 SR-11 to SR-15",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 50
+   },
+   "544": {
+      "Project Name": "GM2 I-91 I-691 CT-15 Task 2",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 100
+   },
+   "545": {
+      "Project Name": "BSC Sheffield Abutment Testing",
+      "Year": "2021",
+      "Application": "Concrete Structure Scanning",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "546": {
+      "Project Name": "WisDOT WO#1 Aerial Surveys",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 294,
+      "deck area": "3,292,835",
+      "pavement miles": null
+   },
+   "547": {
+      "Project Name": "WisDOT WO#2 Levels 1&2 Surveys",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 86,
+      "deck area": "838,087",
+      "pavement miles": null
+   },
+   "548": {
+      "Project Name": "NOVA I-285 at I-20 East Interchange",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 100
+   },
+   "549": {
+      "Project Name": "Fisher Bren Sheridan Mayo_Park_NDDOT",
+      "Year": "2021",
+      "Application": "Consulting & Research",
+      "State": "ND",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "550": {
+      "Project Name": "MES Voids MD145",
+      "Year": "2021",
+      "Application": "Other Projects",
+      "State": "MD",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "551": {
+      "Project Name": "Fisher Associates No 3 County Roads",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "NY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 13
+   },
+   "552": {
+      "Project Name": "MnDOT D1 Pavement",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 155
+   },
+   "553": {
+      "Project Name": "Del Mar Enviro Beach Club Road",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 5
+   },
+   "554": {
+      "Project Name": "ERC_Pavement_Bridge Decks_Tunnel Scanning",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": 27,
+      "deck area": "1,170,715",
+      "pavement miles": 233
+   },
+   "555": {
+      "Project Name": "VTTI_EFLHD Parkways",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "TN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 913
+   },
+   "556": {
+      "Project Name": "WisDOT_WO#3_Analysis",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "WI",
+      "# of decks": 455,
+      "deck area": "4,283,997",
+      "pavement miles": null
+   },
+   "557": {
+      "Project Name": "WSB Chanhassen MN Pavement",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 10
+   },
+   "558": {
+      "Project Name": "MnDOT_I-494_PCC Condition Survey",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 10
+   },
+   "559": {
+      "Project Name": "MnDOT D2&D4_GPR Pavement",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "MN",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 290
+   },
+   "560": {
+      "Project Name": "USPS_North Reading Slab Utilities",
+      "Year": "2021",
+      "Application": "Subsurface Utility Engineering",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "561": {
+      "Project Name": "Wood_I-10_Caltrans",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 86
+   },
+   "562": {
+      "Project Name": "WSP_RIDOT Interstate Aerial IR",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "RI",
+      "# of decks": 199,
+      "deck area": "3,039,898",
+      "pavement miles": null
+   },
+   "563": {
+      "Project Name": "SCDOT_Blythe_I-85 Evaluation",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "SC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 25
+   },
+   "564": {
+      "Project Name": "Del_Mar_Environmental Pavement Survey Rd. 2",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "CA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 1
+   },
+   "565": {
+      "Project Name": "Purdue INDOT Aerial 2021",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "IN",
+      "# of decks": 37,
+      "deck area": "278,190",
+      "pavement miles": null
+   },
+   "566": {
+      "Project Name": "Wood_US-60 EB James City County",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 7
+   },
+   "567": {
+      "Project Name": "Wood_US-60 WB James City County",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 7
+   },
+   "568": {
+      "Project Name": "Wood_SR 189 Southampton",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 5
+   },
+   "569": {
+      "Project Name": "Premier-Fences Taunton Hospital",
+      "Year": "2021",
+      "Application": "Subsurface Utility Engineering",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "570": {
+      "Project Name": "CIORBA_IL Tollway Parapet Rebar Spacing",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": 3,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "571": {
+      "Project Name": "Purdue INDOT_3D-Radar Bridge Decks",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "IN",
+      "# of decks": 10,
+      "deck area": "73,717",
+      "pavement miles": null
+   },
+   "572": {
+      "Project Name": "NCE_AZ I-17 Shoulder Survey",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "AZ",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 15
+   },
+   "573": {
+      "Project Name": "JF White_Sumner & Callahan Tunnel Utility Mapping",
+      "Year": "2021",
+      "Application": "Subsurface Utility Engineering",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "574": {
+      "Project Name": "NOVA_I-285_Ashford Dunwoody - Henderson Mill",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 80
+   },
+   "575": {
+      "Project Name": "MoDOT St. Louis Decks",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "MO",
+      "# of decks": 5,
+      "deck area": "145,278",
+      "pavement miles": null
+   },
+   "576": {
+      "Project Name": "OSU I-35 PCC Pavement Rebar Depth",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "OK",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 174
+   },
+   "577": {
+      "Project Name": "STRATA I-84 Jerome to Twin Falls",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 20
+   },
+   "578": {
+      "Project Name": "GEODesign Hartford & Middlesex Pavement",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 21
+   },
+   "579": {
+      "Project Name": "Gary K Rubin Woburn Concrete Waste Line",
+      "Year": "2021",
+      "Application": "Subsurface Utility Engineering",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "580": {
+      "Project Name": "GeoDesign 3 Pavement Sections in Vermont",
+      "Year": "2021",
+      "Application": "Pavement Structure Evaluation",
+      "State": "VT",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": 52
+   },
+   "581": {
+      "Project Name": "Arcadis_Retaining Wall_Fairfield",
+      "Year": "2021",
+      "Application": "Concrete Structure Scanning",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "582": {
+      "Project Name": "Ciorba_ITRCC_GPR Bridge Decks",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "IN",
+      "# of decks": 8,
+      "deck area": "182,000",
+      "pavement miles": null
+   },
+   "583": {
+      "Project Name": "Lochner_Chicago Skyway Bridge Decks",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "IL",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "584": {
+      "Project Name": "UHPC Solutions_DMB Rebar Cover",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "DE",
+      "# of decks": 1,
+      "deck area": "388,800",
+      "pavement miles": null
+   },
+   "585": {
+      "Project Name": "VHB_Sanford-ME_Concrete Rebar mapping",
+      "Year": "2021",
+      "Application": "Concrete Structure Scanning",
+      "State": "ME",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "586": {
+      "Project Name": "Senate Engineering_Breth Bridge",
+      "Year": "2021",
+      "Application": "Bridge Deck Scanning",
+      "State": "PA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "587": {
+      "Project Name": "Severud Assoc. MSG Slab Deterioration",
+      "Year": "2022",
+      "Application": "Concrete Structure Scanning",
+      "State": "NY",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "588": {
+      "Project Name": "M&H_US-29 Bridge Deck",
+      "Year": "2022",
+      "Application": "Bridge Deck Scanning",
+      "State": "SC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "589": {
+      "Project Name": "Jay Dee Contractors_MI I-75 Tunnel Testing",
+      "Year": "2022",
+      "Application": "Concrete Structure Scanning",
+      "State": "MI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "590": {
+      "Project Name": "ITD_VTTI Additional Analysis",
+      "Year": "2022",
+      "Application": "Other Projects",
+      "State": "ID",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "591": {
+      "Project Name": "VTTI_SCDOT GPR_TSD",
+      "Year": "2022",
+      "Application": "Pavement Structure Evaluation",
+      "State": "SC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "592": {
+      "Project Name": "NOVA_I-285 Dekalb County Bridges",
+      "Year": "2022",
+      "Application": "Bridge Deck Scanning",
+      "State": "GA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "593": {
+      "Project Name": "Commonwealth Eng._Rt 38 Pavement RI",
+      "Year": "2022",
+      "Application": "Pavement Structure Evaluation",
+      "State": "RI",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "594": {
+      "Project Name": "Wood SCDOT_I-95 Pavement Section_MP-0 to MP-8",
+      "Year": "2022",
+      "Application": "Pavement Structure Evaluation",
+      "State": "SC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "595": {
+      "Project Name": "Wood SCDOT_I-526 Pavement Section_MP-10 to MP-16",
+      "Year": "2022",
+      "Application": "Pavement Structure Evaluation",
+      "State": "SC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "596": {
+      "Project Name": "Wood SCDOT_I-526 Pavement Section_MP-27 to MP-30",
+      "Year": "2022",
+      "Application": "Pavement Structure Evaluation",
+      "State": "SC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "597": {
+      "Project Name": "Wood SCDOT_I-85 Bridge Decks",
+      "Year": "2022",
+      "Application": "Bridge Deck Scanning",
+      "State": "SC",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "598": {
+      "Project Name": "Rubin Waste Line Locating",
+      "Year": "2022",
+      "Application": "Subsurface Utility Engineering",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "599": {
+      "Project Name": "MWW Concrete mapping",
+      "Year": "2022",
+      "Application": "Subsurface Utility Engineering",
+      "State": "NH",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "600": {
+      "Project Name": "UGD Building Slab Scan",
+      "Year": "2022",
+      "Application": "Concrete Structure Scanning",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   },
+   "601": {
+      "Project Name": "MJ MassDOT SUE",
+      "Year": "2022",
+      "Application": "Subsurface Utility Engineering",
+      "State": "MA",
+      "# of decks": null,
+      "deck area": "",
+      "pavement miles": null
+   }
+}
