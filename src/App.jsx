@@ -144,7 +144,7 @@ function App() {
             {activePopup && (
             
             <div>
-              <p className='text-[15px] font-bold h-fit mt-8'>Project Distribution:</p>
+              <p className='text-[15px] font-bold h-fit pt-2'>Project Distribution:</p>
               <div className='flex justify-around font-bold text-center space-x-2'>
               <div className='flex flex-col items-center'><section className='text-[14px]'>{activePopup.BridgeDeckScanning} </section>
               <a href='https://infrasense.com/bridge-deck-scanning/'><img className="min-w-[55px] h-[35px] rounded-sm hover:border-[#de2d26] hover:border-2 hover:opacity-85" alt='img' src={bridgeLogo}></img></a>Bridges</div>
