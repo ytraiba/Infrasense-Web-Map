@@ -10,4 +10,18 @@
   margin-top: 80vh;
   margin-left: 5vh;
   z-index: 1000;
+  width: fit-content;
+}
+.legend {
+  position: absolute;
+  z-index: 999;
+  right: 20px;
+  bottom: 20px;
+  padding:20px 10px;
+  font-size:13px;
+  /* letter-spacing:2px;  */
+  background: none;
+}
+.leaflet-popup-content p {
+  margin: 10px 0;
 }
