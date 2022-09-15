@@ -69,7 +69,7 @@ function App() {
         ? '#fb6a4a'
         : density > 5
         ? '#fc9272'
-        : density > 1
+        : density > 0
         ? '#fcbba1'
         : '#fee5d9';
     })
