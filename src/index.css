@@ -15,3 +15,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.leaflet-interactive{
+  stroke: #51555e;
+  stroke-width: 2px;
+}
+.leaflet-popup-content-wrapper{
+  background-color: #D3d3d3;
+}

@@ -16,49 +16,10 @@ const mapIcon = new L.icon({
   iconSize: [20, 20]
 });
 
-// class StateChart extends Component {
-//   render() {
-//     if (this.props.data) {
-//       return (
-//         <Chart
-//           options={{
-//             chart: {
-//               id: "basic-bar"
-//             },
-//             xaxis: {
-//               categories: [0, 1, 2, 3, 4, 5]
-//             }
-//           }}
-//           series={[
-//             {
-//               name: "series-1",
-//               data: this.props.data
-//             }
-//           ]}
-//           type="bar"
-//         />
-//       )
-//     } else {
-//       return
-//     }
-//   }
-// }
-
 function App() {
   const [ activePopup, setActivePopup ] = useState( null );
 
-  // const graphMap = states.map((curr) => (
-  //   <StateChart
-  //     data={[
-  //       0,
-  //       1,
-  //       3,
-  //       4,
-  //       5
-  //     ]}
-  //     type="bar"
-  //   />
-  // ))
+ 
 
   const mapPolygonColorToDensity=(density => {
     return density > 100
@@ -97,8 +58,8 @@ function App() {
       <div className='logo'>
         <img src={Logo} style={{width: 200,}} alt='alt' />
       </div>
-      <div className="legend font-bold text-center flex flex-col items-center">
-            <div className='text-[20px]'>LEGEND</div>(Number of Total Projects)
+      <div className="legend font-bold text-center text-[#d3d3d3] flex flex-col items-center">
+            <div className='text-[20px]'>LEGEND</div>(Number of Projects)
             <div className='border-4 border-[#a50f15] w-[50%] mt-2'> {'>'} 100 </div>
             <div className='border-4 border-[#de2d26] w-[50%]' >50 - 99 </div>
             <div className='border-4 border-[#fb6a4a] w-[50%]'> 25 - 49 </div>
@@ -108,7 +69,7 @@ function App() {
       </div>
       <MapContainer center = { [ 38, -97 ] } zoom = { 4.5 } scrollWheelZoom = { true }>
       {states && (<GeoJSON data={states} style={style}/>)}  
-      <TileLayer attribution = '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors' url = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"/>
+      <TileLayer url = "https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png"/>
 
        {popups.map(eachData => (
          <Marker 
@@ -131,8 +92,8 @@ function App() {
             setActivePopup(null)
           }}
         >
-          <div>
-            <div className='flex justify-center'>
+          <div >
+            <div className='flex justify-center '>
             <h1 className='text-xl font-bold border-b-2 border-[#de2d26] w-fit font-serif'>{ activePopup.State }</h1>
             </div>
             <div className='text-[14px] flex items-center pt-2'>Total Number of Projects:&nbsp;<section className='font-bold'> { activePopup.ProjectTotal }&nbsp;</section> projects</div>
