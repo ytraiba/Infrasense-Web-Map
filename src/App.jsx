@@ -56,7 +56,7 @@ function App() {
   return (
     <div>
       <div className='logo'>
-        <img src={Logo} style={{width: 200,}} alt='alt' />
+        <img src={Logo} style={{width: 100,}} alt='alt' />
       </div>
       <div className="legend font-bold text-center text-[#d3d3d3] flex flex-col items-center">
             <div className='text-[20px]'>LEGEND</div>(Number of Projects)
