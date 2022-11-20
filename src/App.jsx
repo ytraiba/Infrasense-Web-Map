@@ -123,7 +123,7 @@ function App() {
               
               </div>
               <div className='pt-2 text-[13px] font-style: italic'>Other Projects: {activePopup.OtherProjects}</div>
-              <a href={activePopup.Blog} className='pt-4 ml-0 w-fit text text-[12px] hover:text-gray-500 font-semibold'>Click here to read more about our {activePopup.State} projects</a>
+              <a href={activePopup.Blog} target="_parent" className='pt-4 ml-0 w-fit text text-[12px] hover:text-gray-500 font-semibold'>Click here to read more about our {activePopup.State} projects</a>
             </div>
             )}
           </div>
