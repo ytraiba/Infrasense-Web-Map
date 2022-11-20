@@ -12,7 +12,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": ""
   },
   {
     "State": "Alaska",
@@ -27,7 +28,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/alaska/"
   },
   {
     "State": "Arizona",
@@ -42,7 +44,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/arizona/"
   },
   {
     "State": "Arkansas",
@@ -57,7 +60,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/arkansas/"
   },
   {
     "State": "California",
@@ -72,7 +76,8 @@ export const popups = [
     "OtherProjects": 2,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 2,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/california/"
   },
   {
     "State": "Colorado",
@@ -87,7 +92,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 2,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/colorado/"
   },
   {
     "State": "Connecticut",
@@ -102,7 +108,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 2,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/connecticut/"
   },
   {
     "State": "Delaware",
@@ -117,7 +124,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 2,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/delaware/"
   },
   {
     "State": "Florida",
@@ -132,7 +140,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 2,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/florida/"
   },
   {
     "State": "Georgia",
@@ -147,7 +156,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/georgia/"
   },
   {
     "State": "Hawaii",
@@ -162,7 +172,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/hawaii/"
   },
   {
     "State": "Idaho",
@@ -177,7 +188,8 @@ export const popups = [
     "OtherProjects": 2,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/idaho/"
   },
   {
     "State": "Illinois",
@@ -192,7 +204,8 @@ export const popups = [
     "OtherProjects": 2,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/illinois/"
   },
   {
     "State": "Indiana",
@@ -207,7 +220,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/indiana/"
   },
   {
     "State": "Iowa",
@@ -222,7 +236,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/iowa/"
   },
   {
     "State": "Kansas",
@@ -237,7 +252,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/kansas/"
   },
   {
     "State": "Kentucky",
@@ -252,7 +268,8 @@ export const popups = [
     "OtherProjects": 4,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/kentucky/"
   },
   {
     "State": "Louisiana",
@@ -267,7 +284,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/louisiana/"
   },
   {
     "State": "Maine",
@@ -282,7 +300,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 2,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/maine/"
   },
   {
     "State": "Maryland",
@@ -297,7 +316,8 @@ export const popups = [
     "OtherProjects": 4,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 2
+    "SubsurfaceUtilityEngineering": 2,
+    "Blog": "https://infrasense.com/experience/maryland/"
   },
   {
     "State": "Massachusetts",
@@ -312,7 +332,8 @@ export const popups = [
     "OtherProjects": 38,
     "ConcreteStructureScanning": 18,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 16
+    "SubsurfaceUtilityEngineering": 16,
+    "Blog": "https://infrasense.com/experience/massachusetts/"
   },
   {
     "State": "Michigan",
@@ -327,7 +348,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 4,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/michigan/"
   },
   {
     "State": "Minnesota",
@@ -342,7 +364,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 2,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/minnesota/"
   },
   {
     "State": "Mississippi",
@@ -357,7 +380,8 @@ export const popups = [
     "OtherProjects": 1,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": ""
   },
   {
     "State": "Missouri",
@@ -372,7 +396,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/missouri/"
   },
   {
     "State": "Montana",
@@ -387,7 +412,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/montana/"
   },
   {
     "State": "Nebraska",
@@ -402,7 +428,8 @@ export const popups = [
     "OtherProjects": 2,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/nebraska/"
   },
   {
     "State": "Nevada",
@@ -417,7 +444,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/nevada/"
   },
   {
     "State": "New Hampshire",
@@ -432,7 +460,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 2
+    "SubsurfaceUtilityEngineering": 2,
+    "Blog": "https://infrasense.com/experience/newhampshire/"
   },
   {
     "State": "New Jersey",
@@ -447,7 +476,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 1,
     "ConsultingResearch": 1,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/new-jersey/"
   },
   {
     "State": "New Mexico",
@@ -462,7 +492,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/new-mexico/"
   },
   {
     "State": "New York",
@@ -477,7 +508,8 @@ export const popups = [
     "OtherProjects": 2,
     "ConcreteStructureScanning": 6,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/new-york/"
   },
   {
     "State": "North Carolina",
@@ -492,7 +524,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": ""
   },
   {
     "State": "North Dakota",
@@ -507,7 +540,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 2,
-    "SubsurfaceUtilityEngineering": 2
+    "SubsurfaceUtilityEngineering": 2,
+    "Blog": "https://infrasense.com/experience/northdakota/"
   },
   {
     "State": "Ohio",
@@ -522,7 +556,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/ohio/"
   },
   {
     "State": "Oklahoma",
@@ -537,7 +572,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/oklahoma/"
   },
   {
     "State": "Oregon",
@@ -552,7 +588,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/oregon/"
   },
   {
     "State": "Pennsylvania",
@@ -567,7 +604,8 @@ export const popups = [
     "OtherProjects": 2,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/pennsylvania/"
   },
   {
     "State": "Rhode Island",
@@ -582,7 +620,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/rhodeisland/"
   },
   {
     "State": "South Carolina",
@@ -597,7 +636,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/southcarolina/"
   },
   {
     "State": "South Dakota",
@@ -612,7 +652,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/southdakota/"
   },
   {
     "State": "Tennessee",
@@ -627,7 +668,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/tennessee/"
   },
   {
     "State": "Texas",
@@ -642,7 +684,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 2,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/texas/"
   },
   {
     "State": "Utah",
@@ -657,7 +700,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/utah/"
   },
   {
     "State": "Vermont",
@@ -672,7 +716,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/vermont/"
   },
   {
     "State": "Virginia",
@@ -687,7 +732,8 @@ export const popups = [
     "OtherProjects": 6,
     "ConcreteStructureScanning": 10,
     "ConsultingResearch": 3,
-    "SubsurfaceUtilityEngineering": 2
+    "SubsurfaceUtilityEngineering": 2,
+    "Blog": "https://infrasense.com/experience/virginia/"
   },
   {
     "State": "Washington",
@@ -702,7 +748,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/washington/"
   },
   {
     "State": "West Virginia",
@@ -717,7 +764,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 1,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": ""
   },
   {
     "State": "Wisconsin",
@@ -732,7 +780,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 4,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/wisconsin/"
   },
   {
     "State": "Wyoming",
@@ -747,7 +796,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": "https://infrasense.com/experience/wyoming/"
   },
   {
     "State": "Puerto Rico",
@@ -762,7 +812,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": ""
   },
   {
     "State": "District of Columbia",
@@ -777,7 +828,8 @@ export const popups = [
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
     "ConsultingResearch": 0,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": ""
   },
   {
     "State": "International Projects",
@@ -792,6 +844,7 @@ export const popups = [
     "OtherProjects": 3,
     "ConcreteStructureScanning": 1,
     "ConsultingResearch": 1,
-    "SubsurfaceUtilityEngineering": 0
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": ""
   }
  ]
