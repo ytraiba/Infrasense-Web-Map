@@ -20,7 +20,7 @@ function App() {
   const [ activePopup, setActivePopup ] = useState( null );
 
  
-
+  //Chloropleth color function
   const mapPolygonColorToDensity=(density => {
     return density > 100
         ? '#a50f15'
@@ -35,9 +35,15 @@ function App() {
         : '#fee5d9';
     })
  
+  // function to create div if blog link exists
+  const CreateLink = props => {
+    if (props.blogLink) {
+      return (<a href={activePopup.Blog} target="_parent" className='pt-4 ml-0 w-fit text-[13px] hover:text-gray-500 font-semibold'>Click to read more about our {activePopup.State} projects</a>)
+    }}
+               
+
   const style = (feature => {
       var index = popups.findIndex(obj => obj.State === feature.properties.NAME);
-      // console.log(popups[index].Population)
 
     return ({
         fillColor: mapPolygonColorToDensity(popups[index].ProjectTotal),
@@ -49,10 +55,6 @@ function App() {
     });
   });
 
-  // const GetGraph = (props) => {
-  //   console.log(graphMap[props.active.State])
-  //   return graphMap[props.active.State]
-  // }
   return (
     <div>
       <div className='logo'>
@@ -67,7 +69,7 @@ function App() {
             <div className='border-4 border-[#fcbba1] w-[50%]'> 1 - 4 </div>
             <div className='border-4 border-[#fee5d9] w-[50%]'> ZERO </div>
       </div>
-      <MapContainer center = { [ 38, -97 ] } zoom = { 3.5 } scrollWheelZoom = { true }>
+      <MapContainer center = { [ 38, -97 ] } zoom = { 3.5 } scrollWheelZoom = { false }>
       {states && (<GeoJSON data={states} style={style}/>)}  
       <TileLayer url = "https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png"/>
 
@@ -93,17 +95,13 @@ function App() {
           }}
         >
           <div >
-            <div className='flex justify-center '>
+            <div className='flex justify-center'>
             <h1 className='text-xl font-bold border-b-2 border-[#de2d26] w-fit font-serif'>{ activePopup.State }</h1>
             </div>
             <div className='text-[14px] flex items-center pt-2'>Total Number of Projects:&nbsp;<section className='font-bold'> { activePopup.ProjectTotal }&nbsp;</section> projects</div>
             <div className='text-[14px] flex items-center'>Bridge Deck Area Inspected:&nbsp;<section className='font-bold'> { activePopup.BridgeDeckArea.toLocaleString(navigator.language, { minimumFractionDigits: 0 }) }&nbsp;</section> sqft</div>
             <div className='text-[14px] flex items-center'>Roadway Distance Inspected:&nbsp;<section className='font-bold'> { activePopup.PavementDistance.toLocaleString(navigator.language, { minimumFractionDigits: 0 }) }&nbsp;</section> miles</div>
             
-            
-            {/* <div className='text-[14px]'>&nbsp;&nbsp; Infrasense has inspected over { activePopup.BridgeDeckArea.toLocaleString(navigator.language, { minimumFractionDigits: 0 }) } sqft of bridge 
-            deck and over { activePopup.PavementDistance.toLocaleString(navigator.language, { minimumFractionDigits: 0 }) } miles of paved roadway in state of { activePopup.State }</div> */}
-
             {activePopup && (
             
             <div>
@@ -120,11 +118,10 @@ function App() {
               <div className='flex flex-col items-center'><section className='text-[14px]'>{activePopup.ConsultingResearch}</section>
               <a href='https://infrasense.com/services/consulting-research/'><img className="min-w-[55px] h-[35px] rounded-sm hover:border-[#de2d26] border-2 border-[#b7d433] hover:opacity-85" alt='img' src={consultingLogo}></img></a>Research</div>
               
-              
               </div>
-              <div className='pt-2 text-[13px] font-style: italic'>Other Projects: {activePopup.OtherProjects}</div>
-              <a href={activePopup.Blog} target="_parent" className='pt-4 ml-0 w-fit text text-[12px] hover:text-gray-500 font-semibold'>Click here to read more about our {activePopup.State} projects</a>
-            </div>
+                <div className='pt-2 text-[13px] font-style: italic'>Other Projects: {activePopup.OtherProjects}</div>
+                <CreateLink blogLink={activePopup.Blog}></CreateLink>
+               </div>
             )}
           </div>
         </Popup>
