@@ -38,7 +38,7 @@ function App() {
   // function to create div if blog link exists
   const CreateLink = props => {
     if (props.blogLink) {
-      return (<a href={activePopup.Blog} target="_parent" className='pt-4 ml-0 w-fit text-[13px] hover:text-gray-500 font-semibold'>Click to read more about our {activePopup.State} projects</a>)
+      return (<a href={activePopup.Blog} target="_parent" className='ml-0 w-fit text-[13px] hover:text-gray-500 font-semibold'>Click to read more about our {activePopup.State} projects</a>)
     }}
                
 
@@ -60,7 +60,7 @@ function App() {
       <div className='logo'>
         <img src={Logo} style={{width: 100,}} alt='alt' />
       </div>
-      <div className="legend font-bold text-center text-[#d3d3d3] flex flex-col items-center">
+      <div className="invisible sm:visible legend font-bold text-center text-[#d3d3d3] flex flex-col items-center">
             <div className='text-[20px]'>LEGEND</div>(Number of Projects)
             <div className='border-4 border-[#a50f15] w-[50%] mt-2'> {'>'} 100 </div>
             <div className='border-4 border-[#de2d26] w-[50%]' >50 - 99 </div>
