@@ -35,13 +35,13 @@ function App() {
         : '#fee5d9';
     })
  
-  // function to create div if blog link exists
+  // create div if blog link exists
   const CreateLink = props => {
     if (props.blogLink) {
       return (<a href={activePopup.Blog} target="_parent" className='ml-0 w-fit text-[13px] hover:text-gray-500 font-semibold'>Click to read more about our {activePopup.State} projects</a>)
     }}
                
-
+  // defines the style of the GeoJSON layer
   const style = (feature => {
       var index = popups.findIndex(obj => obj.State === feature.properties.NAME);
 

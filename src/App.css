@@ -25,4 +25,7 @@
 .leaflet-popup-content p {
   margin: 10px 0;
 }
-
+.leaflet-interactive{
+  stroke: #51555e;
+  stroke-width: 2px;
+}
