@@ -108,15 +108,15 @@ function App() {
               <p className='text-[15px] font-bold h-fit pt-2'>Project Distribution:</p>
               <div className='flex justify-around font-bold text-center space-x-2'>
               <div className='flex flex-col items-center'><section className='text-[14px]'>{activePopup.BridgeDeckScanning} </section>
-              <a href='https://infrasense.com/bridge-deck-scanning/'><img className="min-w-[55px] h-[35px] rounded-sm hover:border-[#de2d26] border-2 border-[#00aaae] hover:opacity-85" alt='img' src={bridgeLogo}></img></a>Bridges</div>
+              <a target="_parent" href='https://infrasense.com/bridge-deck-scanning/'><img className="min-w-[55px] h-[35px] rounded-sm hover:border-[#de2d26] border-2 border-[#00aaae] hover:opacity-85" alt='img' src={bridgeLogo}></img></a>Bridges</div>
               <div className='flex flex-col items-center'><section className='text-[14px]'>{activePopup.PavementStructureEvaluation}</section>
-              <a href='https://infrasense.com/pavement-structure-evaluation/'><img className="min-w-[55px] h-[35px] rounded-sm hover:border-[#de2d26] border-2 border-[#829dcf] hover:opacity-85" alt='img' src={pavementLogo}></img></a>Pavement Structures</div>
+              <a target="_parent" href='https://infrasense.com/pavement-structure-evaluation/'><img className="min-w-[55px] h-[35px] rounded-sm hover:border-[#de2d26] border-2 border-[#829dcf] hover:opacity-85" alt='img' src={pavementLogo}></img></a>Pavement Structures</div>
               <div className='flex flex-col items-center'><section className='text-[14px]'>{activePopup.SubsurfaceUtilityEngineering}</section>
-              <a href='https://infrasense.com/services/utility-locating-mapping/'><img className="min-w-[55px] h-[35px] rounded-sm hover:border-[#de2d26] border-2 border-[#D68D40] hover:opacity-85 " alt='img' src={utilityLogo}></img></a>Utilities</div>
+              <a target="_parent" href='https://infrasense.com/services/utility-locating-mapping/'><img className="min-w-[55px] h-[35px] rounded-sm hover:border-[#de2d26] border-2 border-[#D68D40] hover:opacity-85 " alt='img' src={utilityLogo}></img></a>Utilities</div>
               <div className='flex flex-col items-center'><section className='text-[14px]'>{activePopup.ConcreteStructureScanning}</section>
-              <a href='https://infrasense.com/services/concrete-structure-scanning/'><img className="min-w-[55px] h-[35px] rounded-sm hover:border-[#de2d26] border-2 border-[#fdcd81] hover:opacity-85" alt='img' src={concreteLogo}></img></a>Concrete Structures</div>
+              <a target="_parent" href='https://infrasense.com/services/concrete-structure-scanning/'><img className="min-w-[55px] h-[35px] rounded-sm hover:border-[#de2d26] border-2 border-[#fdcd81] hover:opacity-85" alt='img' src={concreteLogo}></img></a>Concrete Structures</div>
               <div className='flex flex-col items-center'><section className='text-[14px]'>{activePopup.ConsultingResearch}</section>
-              <a href='https://infrasense.com/services/consulting-research/'><img className="min-w-[55px] h-[35px] rounded-sm hover:border-[#de2d26] border-2 border-[#b7d433] hover:opacity-85" alt='img' src={consultingLogo}></img></a>Research</div>
+              <a target="_parent" href='https://infrasense.com/services/consulting-research/'><img className="min-w-[55px] h-[35px] rounded-sm hover:border-[#de2d26] border-2 border-[#b7d433] hover:opacity-85" alt='img' src={consultingLogo}></img></a>Research</div>
               
               </div>
                 <div className='pt-2 text-[13px] font-style: italic'>Other Projects: {activePopup.OtherProjects}</div>
