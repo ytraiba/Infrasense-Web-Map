@@ -19,7 +19,6 @@ const mapIcon = new L.icon({
 function App() {
   const [ activePopup, setActivePopup ] = useState( null );
 
- 
   //Chloropleth color function
   const mapPolygonColorToDensity=(density => {
     return density > 100
