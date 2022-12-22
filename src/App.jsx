@@ -13,13 +13,13 @@ import Logo from './images/logo-infrasense-300x200.png'
 
 
 
+
 function App() {
   
 
-
   const mapIcon = new L.icon({
     iconUrl: require("./images/marker.png"),
-    iconSize: [15, 15]
+    iconSize: [14, 14]
   });
 
   const [ activePopup, setActivePopup ] = useState( null );
@@ -74,7 +74,7 @@ function App() {
             <div className='border-4 border-[#fcbba1] w-[50%]'> 1 - 4 </div>
             <div className='border-4 border-[#fee5d9] w-[50%]'> ZERO </div>
       </div>
-      <MapContainer center = { [ 38, -97 ] } zoom = {3} scrollWheelZoom = { false } style={{ width: '100%', height: '100%' } }>
+      <MapContainer center={ [ 38, -97 ] } zoom={3} scrollWheelZoom={false} style={{ width: '100%', height: '100%' } }>
       {states && (<GeoJSON data={states} style={style}/>)}  
       <TileLayer url = "https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png"/>
 
