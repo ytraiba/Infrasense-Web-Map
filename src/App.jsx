@@ -1,4 +1,4 @@
-import {React, useState} from 'react'
+import {React, useState } from 'react'
 import './App.css'
 import { MapContainer, TileLayer,  GeoJSON, Marker, Popup } from "react-leaflet";
 import * as L from "leaflet";
@@ -11,12 +11,17 @@ import  utilityLogo  from './images/utility.png'
 import  pavementLogo  from './images/pavement.png'
 import Logo from './images/logo-infrasense-300x200.png'
 
-const mapIcon = new L.icon({
-  iconUrl: require("./images/marker.png"),
-  iconSize: [20, 20]
-});
+
 
 function App() {
+  
+
+
+  const mapIcon = new L.icon({
+    iconUrl: require("./images/marker.png"),
+    iconSize: [15, 15]
+  });
+
   const [ activePopup, setActivePopup ] = useState( null );
 
   //Chloropleth color function
@@ -53,7 +58,8 @@ function App() {
         fillOpacity: 0.5
     });
   });
-
+  
+  
   return (
     <div>
       <div className='logo'>
@@ -68,10 +74,11 @@ function App() {
             <div className='border-4 border-[#fcbba1] w-[50%]'> 1 - 4 </div>
             <div className='border-4 border-[#fee5d9] w-[50%]'> ZERO </div>
       </div>
-      <MapContainer center = { [ 38, -97 ] } zoom = { 3.5 } scrollWheelZoom = { false }>
+      <MapContainer center = { [ 38, -97 ] } zoom = {3} scrollWheelZoom = { false } style={{ width: '100%', height: '100%' } }>
       {states && (<GeoJSON data={states} style={style}/>)}  
       <TileLayer url = "https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png"/>
 
+      {/* defines popup content */}
        {popups.map(eachData => (
          <Marker 
             key={eachData.State} 
