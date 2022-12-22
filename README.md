@@ -20,15 +20,15 @@ While working on this project I learned how to:
 
 [Click here to visit the web map](https://infrasense-web-map.vercel.app/).
 
-<img src="https://github.com/ytraiba/Infrasense-Web-Map/blob/master/ss1.png" alt="drawing" style="width:500px;"/>
+<img src="https://github.com/ytraiba/Infrasense-Web-Map/blob/master/src/images/ss1.png" alt="drawing" style="width:500px;"/>
 
 PreProcessed Data in Excel
 
-<img src="https://github.com/ytraiba/Infrasense-Web-Map/blob/master/ss2.png" alt="drawing" style="width:500px; "/>  
+<img src="https://github.com/ytraiba/Infrasense-Web-Map/blob/master/src/images/ss2.png" alt="drawing" style="width:500px; "/>  
 
 Processed Data into JSON
 
-<img src="https://github.com/ytraiba/Infrasense-Web-Map/blob/master/ss3.png" alt="drawing" style="width:400px;"/>
+<img src="https://github.com/ytraiba/Infrasense-Web-Map/blob/master/src/images/ss3.png" alt="drawing" style="width:400px;"/>
 
 
 
