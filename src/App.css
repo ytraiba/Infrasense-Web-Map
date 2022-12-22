@@ -23,7 +23,7 @@
   background: none;
 }
 .leaflet-control-zoom.leaflet-bar.leaflet-control{
-  padding-left: 8px;
+  margin-left: 20px;
 }
 .leaflet-popup-content p {
   margin: 10px 0;
