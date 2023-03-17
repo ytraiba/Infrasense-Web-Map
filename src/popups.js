@@ -747,7 +747,7 @@ export const popups = [
     "BridgeDeckScanning": 1,
     "OtherProjects": 0,
     "ConcreteStructureScanning": 0,
-    "ConsultingResearch": 0,
+    "ConsultingResearch": 1,
     "SubsurfaceUtilityEngineering": 0,
     "Blog": "https://infrasense.com/experience/washington/"
   },
