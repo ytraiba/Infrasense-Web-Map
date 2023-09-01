@@ -1,14 +1,6 @@
 # Infrasense Web Map
 
-The goal of this project was to create an interactive, chloropleth web-map which displays data from hundereds of [Infrasense's](www.infrasense.com) past projects. Each state has a popups which display the number of projects, distance covered, number of project type, and more. 
-
-## Lessons Learned
-
-While working on this project I learned how to:
-
-* Proccess excel data with python
-* Use react-leaflet to display geographic information
-* Model data to create a chloropleth map. 
+The goal of this project was to create an interactive, choropleth web-map that displays data from hundreds of [Infrasense's](www.infrasense.com) past projects. Each state has a popup which displays the number of projects, distance covered, number of project type, and more. 
 
 ## Dependencies
 
