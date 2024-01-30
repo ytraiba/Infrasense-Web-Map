@@ -1,4 +1,4 @@
-export const popups =[
+export const popups = [
   {
     "State": "Alabama",
     "Index": 1,
@@ -800,6 +800,22 @@ export const popups =[
     "Blog": "https://infrasense.com/experience/wyoming/"
   },
   {
+    "State": "Puerto Rico",
+    "Index": 51,
+    "Lat": 18.2,
+    "Long": -66.66,
+    "ProjectTotal": 0,
+    "BridgeDeckArea": 0,
+    "PavementDistance": 0,
+    "PavementStructureEvaluation": 0,
+    "BridgeDeckScanning": 0,
+    "OtherProjects": 0,
+    "ConcreteStructureScanning": 0,
+    "ConsultingResearch": 0,
+    "SubsurfaceUtilityEngineering": 0,
+    "Blog": ""
+  },
+  {
     "State": "District of Columbia",
     "Index": 51,
     "Lat": 38.898,
@@ -830,7 +846,8 @@ export const popups =[
     "ConsultingResearch": 3,
     "SubsurfaceUtilityEngineering": 0,
     "Blog": ""
-  }]
+  }
+ ]
 
 
 // export const popups = [
@@ -1683,4 +1700,3 @@ export const popups =[
 //     "Blog": ""
 //   }
 //  ]
-
